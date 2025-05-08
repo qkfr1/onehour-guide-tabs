@@ -1,11 +1,74 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <title>원아워 수업권한 탭 안내</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>원아워 수업관리 탭 안내</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 2rem;
+    }
+    .tabs {
+      display: flex;
+      border-bottom: 2px solid #eee;
+      margin-bottom: 1rem;
+    }
+    .tab {
+      padding: 0.75rem 1.5rem;
+      cursor: pointer;
+      border: none;
+      border-bottom: 3px solid transparent;
+      background: none;
+      font-weight: bold;
+      color: #666;
+    }
+    .tab.active {
+      border-color: #007acc;
+      color: #007acc;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
+  </style>
 </head>
 <body>
-  <h1>수업권한 탭 안내</h1>
-  <p>이곳에 탭 구성 내용이 들어갑니다</p>
+  <h1>수업관리 탭 안내</h1>
+
+  <div class="tabs">
+    <button class="tab active" onclick="showTab(0)">전체 수업</button>
+    <button class="tab" onclick="showTab(1)">내가 만든 수업</button>
+    <button class="tab" onclick="showTab(2)">공유 받은 수업</button>
+  </div>
+
+  <div class="tab-content active">
+    <h2>전체 수업</h2>
+    <p>내가 만든 수업과 공유 받은 수업이 모두 표시됩니다. 수업명, 시작, 과제 출제 등 다양한 기능을 확인할 수 있습니다.</p>
+  </div>
+
+  <div class="tab-content">
+    <h2>내가 만든 수업</h2>
+    <p>선생님이 직접 생성한 수업입니다. 자동/직접 생성된 수업이 여기에 표시됩니다. 자습을 위해선 책 또는 책장에 포함해야 합니다.</p>
+  </div>
+
+  <div class="tab-content">
+    <h2>공유 받은 수업</h2>
+    <p>원마켓이나 다른 선생님이 공유한 수업입니다. 편집은 불가하며 과제 출제 및 출력 기능만 가능합니다.</p>
+  </div>
+
+  <script>
+    function showTab(index) {
+      const tabs = document.querySelectorAll('.tab');
+      const contents = document.querySelectorAll('.tab-content');
+      tabs.forEach((tab, i) => {
+        tab.classList.toggle('active', i === index);
+        contents[i].classList.toggle('active', i === index);
+      });
+    }
+  </script>
 </body>
 </html>
