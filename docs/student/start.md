@@ -65,8 +65,7 @@
 
 아래 이미지처럼 **\[설정] > 원아워 앱 > 카메라 및 마이크 권한 허용**을 해주세요.
 
-![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (24).png>)\
-
+![](<../.gitbook/assets/image (18).png>)![](<../.gitbook/assets/image (24).png>)<br>
 
 **📌 iOS**&#x20;
 
