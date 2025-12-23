@@ -14,8 +14,8 @@
 
 * [수업 관리](lesson-management/README.md)
   * [수업 생성하기](lesson-management/create.md)
-  * [수업 수정하기](lesson-management/edit/README.md)
-    * [문장 수정 방법](lesson-management/edit/undefined.md)
+  * [수업 수정하기](lesson-management/edit.md)
+    * [문장 수정 방법](lesson-management/edit/sentence.md)
   * [수업 삭제하기](lesson-management/delete.md)
   * [책 관리](lesson-management/book.md)
   * [책장 관리](lesson-management/bookshelf.md)
