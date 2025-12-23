@@ -16,7 +16,7 @@
 
 ### 수정 수정 탭 별 사용 방법 알아보기
 
-<figure><img src="../.gitbook/assets/스크린샷 2025-06-17 오전 9.46.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-06-17 오전 9.46.04.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs fullWidth="false" %}
 {% tab title="문장" %}
