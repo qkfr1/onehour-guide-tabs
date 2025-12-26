@@ -50,9 +50,9 @@ AI 기반의 자동 수업 생성, 학습 리포트, 워크시트 출력 등 다
 
 {% include ".gitbook/includes/undefined (4).md" %}
 
-{% embed url="https://youtu.be/s-RmeJ07mEU" %}
+{% embed url="https://youtu.be/enzG1_GCXXA" %}
 
-과제 옵션 설정이 궁금하다면? [바로가기](assignment-management/create.md)
+과제 옵션 설정이 궁금하다면? [바로가](assignment-management/create.md)
 {% endstep %}
 
 {% step %}
