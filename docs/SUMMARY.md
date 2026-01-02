@@ -28,7 +28,7 @@
   * [커리큘럼 삭제하기](curriculum-management/delete.md)
   * [커리큘럼 공유하기](curriculum-management/share.md)
   * [공유받은 커리큘럼 사용하기](curriculum-management/shared-curriculum.md)
-  * [FAQ](curriculum-management/faq.md)
+  * [커리큘럼 FAQ](curriculum-management/faq.md)
 * [과제 관리](assignment-management/README.md)
   * [과제 생성하기](assignment-management/create.md)
   * [책 과제 생성하기](assignment-management/create-with-book.md)
@@ -42,8 +42,10 @@
 * [결제 및 구독권 안내](billing/README.md)
   * [아카데미 플랜](billing/organization.md)
   * [비즈니스 파트너 플랜](billing/student.md)
-  * [학교 결제](billing/school.md)
-  * [변경되는 과금 정책](billing/undefined.md)
+  * [연결제 플랜(학교)](billing/school.md)
+  * [결제 수단(카드) 관리](billing/undefined.md)
+  * [결제 FAQ](billing/faq.md)
+  * [변경되는 과금 정책](billing/undefined-1.md)
 * [웹 전용 기능 안내](web-features.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
