@@ -8,7 +8,7 @@
 >
 > 이를 바탕으로 수업을 하거나 과제로 출제할 수 있습니다.
 
-<div align="left" data-full-width="false"><figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>* <strong>가시성 있는 이미지로 대체하기</strong> *</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/스크린샷 2026-01-05 오전 9.11.01.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs fullWidth="false" %}
 {% tab title="📜수업(전체 수업)" %}
