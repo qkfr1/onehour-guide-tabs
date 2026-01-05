@@ -15,6 +15,12 @@
 <figure><img src="../.gitbook/assets/스크린샷 2025-08-27 오후 2.52.08.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
+{% tab title="옵션 설정" %}
+과제 수행 시 적용될학습 옵션을 설정할 수 있습니다.
+
+<table><thead><tr><th width="158.00006103515625">옵션명</th><th>설명</th></tr></thead><tbody><tr><td><strong>무음</strong></td><td>음원 없이 과제를 수행하게 합니다.</td></tr><tr><td><strong>영상/PDF 숨김</strong></td><td>영상이나 PDF가 보이지 않도록 설정합니다.</td></tr><tr><td><strong>문장 번역 숨김</strong></td><td>문장 번역(해석)을 비활성화합니다.</td></tr><tr><td><strong>영상 시청</strong></td><td>수업 영상 또는 음성을 끝까지시청하고 과제를 수행합니다.</td></tr><tr><td><strong>시험 모드</strong></td><td>오답 시 재도전 없이 한 번만 문제를 풀 수 있는 모드입니다.</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="단어" %}
 출제하고 싶은 단어를 선택합니다. 일부 혹은 전체 선택 가능
 
@@ -53,12 +59,6 @@
 * **유형**: 단어 영작, 문장 영작
 * **옵션**: 자동 채점 지원 (일부 항목)
 * **활용 팁**: 문장 구성 및 표현력 향상에 유용합니다.
-{% endtab %}
-
-{% tab title="옵션 설정" %}
-과제 수행 시 적용될학습 옵션을 설정할 수 있습니다.
-
-<table><thead><tr><th width="158.00006103515625">옵션명</th><th>설명</th></tr></thead><tbody><tr><td><strong>무음</strong></td><td>음원 없이 과제를 수행하게 합니다.</td></tr><tr><td><strong>영상/PDF 숨김</strong></td><td>영상이나 PDF가 보이지 않도록 설정합니다.</td></tr><tr><td><strong>문장 번역 숨김</strong></td><td>문장 번역(해석)을 비활성화합니다.</td></tr><tr><td><strong>영상 시청</strong></td><td>수업 영상 또는 음성을 끝까지시청하고 과제를 수행합니다.</td></tr><tr><td><strong>시험 모드</strong></td><td>오답 시 재도전 없이 한 번만 문제를 풀 수 있는 모드입니다.</td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 {% endstep %}

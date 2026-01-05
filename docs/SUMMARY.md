@@ -12,7 +12,7 @@
 
 ***
 
-* [수업 관리](lesson-management/README.md)
+* [수업관리](lesson-management/README.md)
   * [수업 생성하기](lesson-management/create.md)
   * [수업 수정하기](lesson-management/edit.md)
     * [문장 수정 방법](lesson-management/edit/sentence.md)
