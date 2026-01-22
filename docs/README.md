@@ -29,10 +29,6 @@ AI 기반의 자동 수업 생성, 학습 리포트, 워크시트 출력 등 다
 * 학생 한 명씩 추가하기
 
 {% include ".gitbook/includes/undefined (1).md" %}
-
-
-
-{% embed url="https://youtu.be/nv0kUE8LMNc" %}
 {% endstep %}
 
 {% step %}
@@ -42,7 +38,7 @@ AI 기반의 자동 수업 생성, 학습 리포트, 워크시트 출력 등 다
 
 {% embed url="https://youtu.be/82lzD826fm8" %}
 
-수업을 직접 만들어보고 싶다면? 바로가기
+수업을 직접 만들어보고 싶다면? [바로가기](https://1hour.gitbook.io/guide/~/revisions/txfabhXFR1cCzjMN6rtr/lesson-management/create)
 {% endstep %}
 
 {% step %}
@@ -52,7 +48,7 @@ AI 기반의 자동 수업 생성, 학습 리포트, 워크시트 출력 등 다
 
 {% embed url="https://youtu.be/enzG1_GCXXA" %}
 
-과제 옵션 설정이 궁금하다면? [바로가](assignment-management/create.md)
+_"시험모드?"_ 과제 옵션 설정이 궁금하다면? [바로가](assignment-management/create.md)
 {% endstep %}
 
 {% step %}
