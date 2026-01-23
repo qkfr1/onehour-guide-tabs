@@ -1,8 +1,11 @@
 # Table of contents
 
+* [Page 1](README.md)
+  * [guide writing principles](page-1/guide-writing-principles.md)
+
 ## 선생님 가이드 <a href="#teacher" id="teacher"></a>
 
-* [시작하기](README.md)
+* [시작하기](<README (1).md>)
   * [회원가입](teacher/start/sign-up.md)
   * [로그인 및 회원정보 수정](teacher/start/login.md)
   * [회원 탈퇴](teacher/start/undefined.md)
