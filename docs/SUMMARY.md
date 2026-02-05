@@ -32,7 +32,7 @@
   * [커리큘럼 FAQ](teacher/curriculum-management/faq.md)
 * [과제 관리](teacher/assignment-management/README.md)
   * [과제 생성하기](teacher/assignment-management/create.md)
-  * [과제유형 알아보기](teacher/assignment-management/undefined.md)
+  * [과제유형 알아보기](teacher/assignment-management/assignment-type.md)
   * [책 과제 생성하기](teacher/assignment-management/create-with-book.md)
   * [과제 수정하기](teacher/assignment-management/edit.md)
   * [과제 삭제하기](teacher/assignment-management/delete.md)
