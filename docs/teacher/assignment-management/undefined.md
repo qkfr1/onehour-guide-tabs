@@ -100,7 +100,7 @@
 
 <figure><img src="../../.gitbook/assets/더빙 (1).gif" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### 동시통역
 
@@ -127,6 +127,8 @@
 다시 녹음하고 싶다면 \[다시 녹음] 버튼을 누르세요.
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../../.gitbook/assets/동시통역.gif" alt=""><figcaption></figcaption></figure>
 
 
 
