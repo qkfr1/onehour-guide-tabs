@@ -6,6 +6,14 @@
 
 매월 1일부터 오늘까지 부여된 과제를 기준으로 계산되며, 클래스 페이지와 대시보드에서 한눈에 확인할 수 있습니다.
 
+
+
+* 클래스별 과제 완료율
+
+{% embed url="https://app.storylane.io/share/0w9rznclfd4o" fullWidth="true" %}
+
+* 학생별 과제 완료율
+
 {% embed url="https://app.storylane.io/share/xksbjjgzbzxt" fullWidth="true" %}
 
 ***
