@@ -8,11 +8,11 @@
 
 
 
-* 클래스별 과제 완료율
+#### 클래스별 과제 완료율
 
 {% embed url="https://app.storylane.io/share/0w9rznclfd4o" fullWidth="true" %}
 
-* 학생별 과제 완료율
+#### 학생별 과제 완료율
 
 {% embed url="https://app.storylane.io/share/xksbjjgzbzxt" fullWidth="true" %}
 
