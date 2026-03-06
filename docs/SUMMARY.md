@@ -29,6 +29,7 @@
   * [커리큘럼 공유하기](teacher/curriculum-management/share.md)
   * [커리큘럼 링크로 공유하기](teacher/curriculum-management/undefined.md)
   * [공유받은 커리큘럼 사용하기](teacher/curriculum-management/shared-curriculum.md)
+  * [공개 커리큘럼](teacher/curriculum-management/public.md)
   * [커리큘럼 FAQ](teacher/curriculum-management/faq.md)
 * [과제 관리](teacher/assignment-management/README.md)
   * [과제 생성하기](teacher/assignment-management/create.md)
