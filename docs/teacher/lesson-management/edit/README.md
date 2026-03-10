@@ -1,5 +1,7 @@
 # 수업 수정하기
 
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-03-10 오후 4.24.35.png" alt=""><figcaption></figcaption></figure>
+
 ### 제목, 수업 썸네일 수정 방법
 
 1. &#x20;상단 메뉴에서 **\[수업 관리]**&#xB97C; 클릭해주세요.
