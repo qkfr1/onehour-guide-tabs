@@ -57,3 +57,8 @@
 
 * [시작하기](student/start.md)
 * [학생 결제](student/billing.md)
+
+## FAQ
+
+* [클래스 관리](faq/undefined/README.md)
+  * [클래스 대응](faq/undefined/undefined.md)
