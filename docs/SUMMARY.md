@@ -12,7 +12,7 @@
   * [공지사항](teacher/start/undefined-1.md)
 * [클래스 관리](teacher/class-management.md)
 * [학생 관리](teacher/student-management.md)
-* [수업관리](teacher/lesson-management/README.md)
+* [수업 관리](teacher/lesson-management/README.md)
   * [수업 생성하기](teacher/lesson-management/create.md)
   * [수업 수정하기](teacher/lesson-management/edit/README.md)
     * [문장 수정 방법](teacher/lesson-management/edit/sentence.md)
@@ -60,5 +60,11 @@
 
 ## FAQ
 
-* [클래스 관리](faq/undefined/README.md)
-  * [클래스 대응](faq/undefined/undefined.md)
+* [클래스 관리](faq/undefined.md)
+* [학생 관리](faq/undefined-1.md)
+* [수업 관리](faq/undefined-2/README.md)
+  * [영어 지문/PDF단어장/엑셀단어장을 통해 단어 테스트 만드는 법](faq/undefined-2/pdf.md)
+* [커리큘럼 관리](faq/undefined-3.md)
+* [과제 관리](faq/undefined-4.md)
+* [데이터 관리](faq/undefined-5.md)
+* [결제 및 구독권 안내](faq/undefined-6.md)
