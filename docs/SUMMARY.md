@@ -63,7 +63,7 @@
 * [클래스 관리](faq/undefined.md)
 * [학생 관리](faq/undefined-1.md)
 * [수업 관리](faq/undefined-2/README.md)
-  * [영어 지문/PDF단어장/엑셀단어장을 통해 단어 테스트 만드는 법](faq/undefined-2/pdf.md)
+  * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/undefined-2/pdf.md)
 * [커리큘럼 관리](faq/undefined-3.md)
 * [과제 관리](faq/undefined/README.md)
 * [데이터 관리](faq/undefined-5.md)
