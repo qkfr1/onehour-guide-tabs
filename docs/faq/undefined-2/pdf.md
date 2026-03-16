@@ -1,4 +1,4 @@
-# 영어 지문/PDF단어장/엑셀단어장을 통해 단어 테스트 만드는 법
+# 영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법
 
 {% embed url="https://youtu.be/5JdWzP1w6p4" %}
 
@@ -8,7 +8,13 @@
 
 지문 내에서 주요 단어들을 추출하여 단어 테스트로 만들어줍니다.
 
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-16 오전 10.30.45 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
 #### PDF/엑셀 단어장이 있는 경우
 
 복사하여 \[본문 변형 문제] 탭에 업로드해주시면 수업 내에 해당 단어 탑재가 완료됩니다.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-16 오전 10.31.42.png" alt=""><figcaption></figcaption></figure>
 
