@@ -22,13 +22,23 @@
 
 전체 선택을 누르면 책에 포함된 모든 수업이 선택됩니다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-01-05 오전 9.11.01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/책선택.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 수업 선택
+
+책에 포함된 수업 중 과제를 내고 싶은 수업을 선택해주세요.&#x20;
+
+전체 선택은 제일 위쪽 체크박스를 눌러주세요.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-17 오후 1.39.28.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 ### 과제 선택
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-08-27 오후 2.52.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-17 오후 1.40.11.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="옵션 설정" %}
@@ -80,9 +90,9 @@
 {% endstep %}
 
 {% step %}
-날짜, 휴일 설정
+### 날짜, 휴일 설정
 
-<figure><img src="../../.gitbook/assets/스크린샷 2025-08-27 오후 2.52.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-17 오후 1.41.07.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="시작 날짜 선택" %}
@@ -124,7 +134,7 @@
 {% endstep %}
 
 {% step %}
-클래스 학생 선택
+#### 클래스 학생 선택
 
 <figure><img src="../../.gitbook/assets/스크린샷 2025-08-27 오후 2.52.45.png" alt=""><figcaption></figcaption></figure>
 
