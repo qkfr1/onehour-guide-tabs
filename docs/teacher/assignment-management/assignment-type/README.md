@@ -10,7 +10,7 @@
 
 뜻을 보고 알맞은 단어를 보기에서 선택하세요.
 
-<figure><img src="../../.gitbook/assets/단어고르기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/단어고르기.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -18,7 +18,7 @@
 
 단어를 보고 알맞은 뜻을 보기에서 선택하세요.
 
-<figure><img src="../../.gitbook/assets/해석고르기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/해석고르기.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@
 
 뜻을 보고 단어를 직접 입력하세요. 입력 후 확인 버튼을 눌러 정답을 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/단어써보기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/단어써보기.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -40,7 +40,7 @@
 
 흩어진 단어들을 올바른 순서로 배열하여 문장을 완성하세요. 단어를 클릭하면 순서대로 문장이 만들어집니다.
 
-<figure><img src="../../.gitbook/assets/문장과제-반복옵션.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/문장과제-반복옵션.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@
 
 문장의 빈칸에 알맞은 단어를 직접 입력하세요.
 
-<figure><img src="../../.gitbook/assets/빈칸써보기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/빈칸써보기.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -58,7 +58,7 @@
 
 문법적으로 올바른 표현을 보기에서 선택하세요.
 
-<figure><img src="../../.gitbook/assets/문법고르기.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/문법고르기.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -92,7 +92,7 @@
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/더빙 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/더빙 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -116,7 +116,7 @@
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/동시통역.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/동시통역.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -128,7 +128,7 @@
 
 문제를 풀어보세요.
 
-<figure><img src="../../.gitbook/assets/문제.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/문제.gif" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -140,7 +140,7 @@
 
 주어진 단어를 활용하여 문장을 작성하세요.
 
-<figure><img src="../../.gitbook/assets/단어영작.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/단어영작.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -148,7 +148,7 @@
 
 주어진 조건에 맞게 영어 문장을 작성하세요.
 
-<figure><img src="../../.gitbook/assets/서술형 영작 (2).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/서술형 영작 (2).gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -156,7 +156,7 @@
 
 한글 해석을 보고 영어 문장으로 작성하세요.
 
-<figure><img src="../../.gitbook/assets/해석 영작.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/해석 영작.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -164,7 +164,7 @@
 
 주어진 주제에 맞게 글을 작성하세요. 타이핑이 어렵다면 손글씨로 작성한 에세이 이미지도 추가할 수 있어요.
 
-<figure><img src="../../.gitbook/assets/에세이영작.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/에세이영작.gif" alt=""><figcaption></figcaption></figure>
 
 
 
