@@ -12,17 +12,13 @@
 
 ### 설정 알아보기
 
-{% include "../../.gitbook/includes/undefined (4).md" %}
-
-***
-
-### 설정 알아보기
+{% embed url="https://app.storylane.io/share/vmz297t2tfg1" %}
 
 {% stepper %}
 {% step %}
-### 수업 선택
+### 책 선택
 
-과제로 내고 싶은 수업을 선택합니다.
+과제로 내고 싶은 책을 선택합니다.
 
 전체 선택을 누르면 책에 포함된 모든 수업이 선택됩니다.
 
