@@ -27,7 +27,7 @@
 
 {% embed url="https://app.storylane.io/share/srgadrfcxdit" %}
 
-{% include "../.gitbook/includes/undefined.md" %}
+{% include "../../.gitbook/includes/undefined.md" %}
 
 ***
 
