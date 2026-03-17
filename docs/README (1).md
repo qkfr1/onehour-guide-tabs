@@ -16,15 +16,21 @@ AI 기반의 자동 수업 생성, 학습 리포트, 워크시트 출력 등 다
 {% step %}
 ### **클래스 생성하기**
 
+{% embed url="https://app.storylane.io/share/srgadrfcxdit" %}
+
 {% include ".gitbook/includes/undefined.md" %}
 {% endstep %}
 
 {% step %}
 ### **학생 추가하기**
 
+{% embed url="https://app.storylane.io/share/0f0utazhb6kv" %}
+
 * 학생 한 번에 추가하기 (엑셀 업로드 방식)
 
 {% include ".gitbook/includes/undefined (2).md" %}
+
+{% embed url="https://app.storylane.io/share/m1mwhkrwhccp" %}
 
 * 학생 한 명씩 추가하기
 
