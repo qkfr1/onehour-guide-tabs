@@ -1,6 +1,4 @@
-# 동영상 시청 과제를 부여하고 싶어요
+# 문제학습을 과제로 부여하고 싶어요
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-03-16 오후 2.14.07.png" alt=""><figcaption></figcaption></figure>
-
-과제 내기 페이지에서 \[영상 시청] 옵션을 체크하여 과제를 부여해 주시면, 학생이 문장/더빙 과제 수행 전 영상을 필수로 시청하도록 설정됩니다.
+{% embed url="https://youtu.be/NqWGE5CKYjg" %}
 

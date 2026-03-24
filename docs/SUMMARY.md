@@ -69,6 +69,7 @@
   * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/undefined-2/pdf.md)
 * [커리큘럼 관리](faq/undefined-3.md)
 * [과제 관리](faq/undefined-4/README.md)
-  * [동영상 시청 과제를 부여하고 싶어요](faq/undefined-4/undefined.md)
+  * [문제학습을 과제로 부여하고 싶어요](faq/undefined-4/undefined.md)
+  * [동영상 시청 과제를 부여하고 싶어요](faq/undefined-4/undefined-1.md)
 * [데이터 관리](faq/undefined-5.md)
 * [결제 및 구독권 안내](faq/undefined-6.md)
