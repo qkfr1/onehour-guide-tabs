@@ -44,7 +44,7 @@
   * [워크시트 만들기](teacher/assignment-management/worksheet.md)
 * [데이터 관리](teacher/data-management/README.md)
   * [학생 데이터](teacher/data-management/progress.md)
-  * [랭킹](teacher/data-management/undefined.md)
+  * [랭킹](teacher/data-management/rangking.md)
   * [리포트 공유하기](teacher/data-management/report.md)
   * [과제 확인하기](teacher/data-management/assignment.md)
 * [결제 및 구독권 안내](teacher/billing/README.md)
