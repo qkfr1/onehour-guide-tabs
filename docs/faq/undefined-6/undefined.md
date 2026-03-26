@@ -4,3 +4,7 @@
 아래 양식을 다운로드하여 발송일/학원명/도입일/요금 부분을 작성 후 이용해주시면 됩니다.
 
 {% file src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_원아워.docx" %}
+
+<공문 예시 이미지>
+
+<div><figure><img src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_예시_page-0001 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_예시_page-0002 (1).jpg" alt=""><figcaption></figcaption></figure></div>
