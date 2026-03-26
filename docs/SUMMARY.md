@@ -72,4 +72,5 @@
   * [문제학습을 과제로 부여하고 싶어요](faq/undefined-4/undefined.md)
   * [동영상 시청 과제를 부여하고 싶어요](faq/undefined-4/undefined-1.md)
 * [데이터 관리](faq/undefined-5.md)
-* [결제 및 구독권 안내](faq/undefined-6.md)
+* [결제 및 구독권 안내](faq/undefined-6/README.md)
+  * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-6/undefined.md)
