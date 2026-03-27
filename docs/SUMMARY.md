@@ -36,6 +36,7 @@
 * [과제 관리](teacher/assignment-management/README.md)
   * [과제 생성하기](teacher/assignment-management/create.md)
   * [과제유형 알아보기](teacher/assignment-management/assignment-type/README.md)
+    * [콘텐츠 시청 과제](teacher/assignment-management/assignment-type/undefined.md)
     * [해석 과제](teacher/assignment-management/assignment-type/sentence-translation.md)
   * [책 과제 생성하기](teacher/assignment-management/create-with-book.md)
   * [과제 수정하기](teacher/assignment-management/edit.md)
@@ -74,3 +75,8 @@
 * [데이터 관리](faq/undefined-5.md)
 * [결제 및 구독권 안내](faq/undefined-6/README.md)
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-6/undefined.md)
+
+***
+
+* [콘텐츠학습\_공지\_가이드](_-_.md)
+* [콘텐츠학습\_공지\_가이드](_-_-1.md)
