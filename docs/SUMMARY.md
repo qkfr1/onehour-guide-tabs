@@ -36,7 +36,7 @@
 * [과제 관리](teacher/assignment-management/README.md)
   * [과제 생성하기](teacher/assignment-management/create.md)
   * [과제유형 알아보기](teacher/assignment-management/assignment-type/README.md)
-    * [콘텐츠 시청 과제](teacher/assignment-management/assignment-type/undefined.md)
+    * [콘텐츠 시청 과제](teacher/assignment-management/assignment-type/watch.md)
     * [해석 과제](teacher/assignment-management/assignment-type/sentence-translation.md)
   * [책 과제 생성하기](teacher/assignment-management/create-with-book.md)
   * [과제 수정하기](teacher/assignment-management/edit.md)
