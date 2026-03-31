@@ -10,11 +10,11 @@
 
 #### • 학생 한 명씩 추가
 
-{% include "../.gitbook/includes/undefined (1).md" %}
+{% include "../../.gitbook/includes/undefined (1).md" %}
 
 #### • 학생 한 번에 추가 (엑셀 업로드 방식)
 
-{% include "../.gitbook/includes/undefined (2).md" %}
+{% include "../../.gitbook/includes/undefined (2).md" %}
 
 {% hint style="info" %}
 최대 500명까지 한 번에 추가할 수 있습니다.
@@ -22,7 +22,7 @@
 
 {% hint style="success" %}
 클래스명은 실제 클래스명과 정확히 일치해야 하며, \
-클래스 지정을 원하는 경우 [\[클래스 관리\]에서 먼저 생성](class-management/#id-1)해두는 것이 좋습니다.&#x20;
+클래스 지정을 원하는 경우 [\[클래스 관리\]에서 먼저 생성](../class-management/#id-1)해두는 것이 좋습니다.&#x20;
 {% endhint %}
 
 ***
