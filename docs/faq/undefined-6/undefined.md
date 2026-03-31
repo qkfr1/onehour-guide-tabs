@@ -1,10 +1,13 @@
-# 비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요
+# 비즈니스 파트너 플랜 안내 관련
 
-비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요하신 경우,\
-아래 양식을 다운로드하여 발송일/학원명/도입일/요금 부분을 작성 후 이용해주시면 됩니다.
+### 비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요
 
-{% file src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_원아워.docx" %}
+* 아래 가이드에서 공문 확인 가능하십니다
 
-<공문 예시 이미지>
+{% embed url="https://1hour.gitbook.io/guide/~/revisions/s0xqpB7c2qPDV2GaChnH/faq/undefined-6/undefined-1" %}
 
-<div><figure><img src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_예시_page-0001 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/비즈니스파트너플랜 학부모 공문_예시_page-0002 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+### 비즈니스 파트너 플랜 결제 방법에 대한 상세한 가이드가 필요해요
+
+{% embed url="https://1hour.gitbook.io/studentguide/billing/pc" %}
+
+{% embed url="https://1hour.gitbook.io/studentguide/billing/mobile" %}

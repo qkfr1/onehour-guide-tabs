@@ -77,7 +77,8 @@
   * [단어 범위나 문장 범위를 지정해서 과제를 내주고 싶어요](faq/undefined-4/undefined-3.md)
 * [데이터 관리](faq/undefined-5.md)
 * [결제 및 구독권 안내](faq/undefined-6/README.md)
-  * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-6/undefined.md)
+  * [비즈니스 파트너 플랜 안내 관련](faq/undefined-6/undefined.md)
+  * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-6/undefined-1.md)
 
 ***
 
