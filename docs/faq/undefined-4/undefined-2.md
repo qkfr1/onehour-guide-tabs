@@ -12,9 +12,19 @@
 {% endstep %}
 
 {% step %}
-### 단어 ㅁ\[]
+### 단어 범위를 지정하시려면 \[단어 범위 선택, 문장 범위를 지정하시려면 \[문장 범위 선택] 버튼을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-03-31 오후 3.51.44.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+###
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-31 오후 3.53.26.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-03-31 오후 3.53.55.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
