@@ -51,5 +51,39 @@
 
 
 {% endstep %}
+
+{% step %}
+### \[문제 유형] 탭 클릭 후 생성 원하는 유형을 클릭해 주세요
+{% endstep %}
+
+{% step %}
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.19.26.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+{% endstep %}
+
+{% step %}
+### 원하는 문제 옵션 선택 후 \[문제 생성] 버튼을 클릭해 주세요
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.21.35.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 생성된 문제를 확인하고 \[문제 세트에 추가] 버튼을 클릭해 주세요
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.23.15.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 만든 문제가 문제 세트에 추가되었습니다. 수정이 완료되면 \[저장] 버튼을 클릭해 주세요
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.23.37.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 {% endstepper %}
 
