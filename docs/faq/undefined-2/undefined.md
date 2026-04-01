@@ -37,7 +37,7 @@
 {% endstep %}
 
 {% step %}
-### \[Quiz AI] 탭을&#x20;
+### \[Quiz AI] 탭을 클릭해 주세
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.18.07.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,6 +84,14 @@
 ### 만든 문제가 문제 세트에 추가되었습니다. 수정이 완료되면 \[저장] 버튼을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.23.37.png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### 다시 해당 수업을 클릭하시면 수정된 문제 확인이 가능합니다
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.25.36.png" alt=""><figcaption></figcaption></figure>
+
+
 {% endstep %}
 {% endstepper %}
 
