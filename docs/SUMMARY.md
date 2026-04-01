@@ -75,6 +75,7 @@
   * [문제학습을 과제로 부여하고 싶어요](faq/undefined-4/undefined-1.md)
   * [동영상 시청 과제를 부여하고 싶어요](faq/undefined-4/undefined-2.md)
   * [단어 범위나 문장 범위를 지정해서 과제를 내주고 싶어요](faq/undefined-4/undefined-3.md)
+  * [과제 완료 후에 다시 보기를 원하는데 다시 보기 방법이 어떻게 되나요?](faq/undefined-4/undefined-4.md)
 * [데이터 관리](faq/undefined-5.md)
 * [결제 및 구독권 안내](faq/undefined-6/README.md)
   * [비즈니스 파트너 플랜 도입 관련 자료 총정리](faq/undefined-6/undefined.md)
