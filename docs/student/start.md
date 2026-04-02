@@ -41,7 +41,7 @@
 
 * <mark style="color:$success;">**초록색 날짜**</mark>: 모든 과제 완료
 * <mark style="color:yellow;">**주황색 날짜**</mark>: 완료되지 않은 과제가 있음
-* <mark style="color:red;">**빨간생 날짜**</mark>: 과제를 시작하지 않음
+* <mark style="color:red;">**빨간색 날짜**</mark>: 과제를 시작하지 않음
 
 오답이 있는 과제는 \[오답 풀기]를 눌러 모두 완료해주세요.
 
