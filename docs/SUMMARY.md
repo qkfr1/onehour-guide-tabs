@@ -70,6 +70,7 @@
 * [학생 관리](faq/undefined-1.md)
 * [수업 관리](faq/lesson-management/README.md)
   * [자동 생성된 문제를 재 생성하는 방법](faq/lesson-management/quizregenerate.md)
+  * [자동 생성된 문제 세트 이름 수정하는 법](faq/lesson-management/quizregenerate-1.md)
   * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/lesson-management/pdf.md)
 * [커리큘럼 관리](faq/undefined-2.md)
 * [과제 관리](faq/undefined-3/README.md)

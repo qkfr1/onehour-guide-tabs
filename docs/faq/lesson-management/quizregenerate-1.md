@@ -1,4 +1,4 @@
-# 자동 생성된 문제를 재 생성하는 방법
+# 자동 생성된 문제 세트 이름 수정하는 법
 
 {% stepper %}
 {% step %}
@@ -37,17 +37,17 @@
 {% endstep %}
 
 {% step %}
-### \[Quiz AI] 탭을 클릭해 주세요
+### 이름 수정이 필요한 문제 세트 옆 \[편집] 아이콘을 클릭해 주세요
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.18.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.40.42.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 
 {% step %}
-### \[수업 문장 불러오기] 버튼을 클릭해 주세요
+### 원하는&#x20;
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.18.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.42.05 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -55,37 +55,9 @@
 {% step %}
 ### \[문제 유형] 탭 클릭 후 생성 원하는 유형을 클릭해 주세요
 
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.42.46.png" alt=""><figcaption></figcaption></figure>
+
 \*현재 강의 문제 유형은 지원하지 않고 있습니
-{% endstep %}
-
-{% step %}
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.19.26.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-{% endstep %}
-
-{% step %}
-### 원하는 문제 옵션 선택 후 \[문제 생성] 버튼을 클릭해 주세요
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.21.35.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 생성된 문제를 확인하고 \[문제 세트에 추가] 버튼을 클릭해 주세요
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.23.15.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 만든 문제가 문제 세트에 추가되었습니다. 수정이 완료되면 \[저장] 버튼을 클릭해 주세요
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.23.37.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
