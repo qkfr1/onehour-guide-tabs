@@ -45,7 +45,7 @@
 {% endstep %}
 
 {% step %}
-### 원하는&#x20;
+### 원하는 문제 세트 이름을 타자로 입력해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.42.05 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@
 {% endstep %}
 
 {% step %}
-### \[문제 유형] 탭 클릭 후 생성 원하는 유형을 클릭해 주세요
+### 입력 후 \[저장] 아이콘을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.42.46.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@
 {% endstep %}
 
 {% step %}
-### 다시 해당 수업을 클릭하시면 수정된 문제 확인이 가능합니다
+### 다시 해당 수업을 클릭하시면 수정된 문제 세트 이ㄹ
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.25.36.png" alt=""><figcaption></figcaption></figure>
 
