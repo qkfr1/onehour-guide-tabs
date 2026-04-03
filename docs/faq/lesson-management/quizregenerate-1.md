@@ -56,12 +56,10 @@
 ### 입력 후 \[저장] 아이콘을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-03 오후 6.42.46.png" alt=""><figcaption></figcaption></figure>
-
-\*현재 강의 문제 유형은 지원하지 않고 있습니
 {% endstep %}
 
 {% step %}
-### 다시 해당 수업을 클릭하시면 수정된 문제 세트 이ㄹ
+### 다시 해당 수업을 클릭하시면 문제 세트 이름이 수정된 것을 확인하실 수 있습니다
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-01 오후 5.25.36.png" alt=""><figcaption></figcaption></figure>
 
