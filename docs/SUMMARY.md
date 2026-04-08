@@ -75,7 +75,7 @@
   * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/lesson-management/pdf.md)
 * [커리큘럼 관리](faq/undefined-2.md)
 * [과제 관리](faq/undefined-3/README.md)
-  * [라이팅(Writing) 과제를 부여하고, 손글씨를 업로드하여 AI 첨삭을 받는 방법](faq/undefined-3/writing-ai.md)
+  * [에세이 라이팅 과제를 부여하고, 손글씨를 업로드하여 AI 첨삭을 받는 방법](faq/undefined-3/ai.md)
   * [책 워크시트로 랜덤 시험지 만들기](faq/undefined-3/undefined.md)
   * [책과제를 반복으로 내고 싶어요](faq/undefined-3/undefined-1.md)
   * [학생 클래스 이동 시 신규 클래스 과제를 부여하고 싶어요](faq/undefined-3/undefined-2.md)
