@@ -1,97 +1,84 @@
-# 라이팅 과제를 내주고, 손글씨를 업로드하여 첨삭받도록 하고 싶어요
+# 학습지 이미지 한 장으로 외부지문 내신 대비하기
+
+## 외부지문 출제 대비 원아워 수업 준비 가이드
+
+### 이런 선생님께 추천해요
+
+학교 중간·기말고사에서 **외부지문**이 출제되는데, 지문 분석부터 문제 생성까지 직접 하기엔 시간이 부족하신 선생님.&#x20;
+
+내신 성적은 학원 운영에 핵심인데, 기존 진도 외에 외부지문까지 커버하기 어려우셨다면 이 방법을 활용해보세요.
+
+***
+
+### 준비 과정 (4단계)
+
+{% embed url="https://youtu.be/vkeH4gDWNTI" %}
 
 {% stepper %}
 {% step %}
-### 라이팅 과제를 부여할 수업을 선택하고, 우측 과제 내기 아이콘을 클릭해 주세요
+### &#x20;외부지문 이미지 준비하기
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.19.45.png" alt=""><figcaption></figcaption></figure>
+학습지나 프린트물에서 학습할 외부지문 본문을 촬영하거나 스캔합니다.
+
+{% hint style="info" %}
+💡 **팁**: 본문 부분만 깔끔하게 크롭하면 AI가 더 정확하게 인식해요.
+{% endhint %}
+{% endstep %}
+
+{% step %}
+### 외부지문 변형 문제 수업 만들기
+
+* 원아워에서 **수업 생성** 메뉴로 이동합니다
+* **외부지문 변형 문제** 버튼을 클릭합니다
+* 준비한 이미지를 첨부합니다
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.14.03.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 
 {% step %}
-### 화면을 스크롤하여 \[에세이 설정] 부분을 확인하고, 주제를 직접 입력하거나 \[주제 자동 생성] 버튼을 통해 AI에게 주제를 받으세요
+### 문제 유형 선택하기
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.22.45.png" alt=""><figcaption></figcaption></figure>
+내신 대비에 효과적인 추천 유형:
 
+| 문제 유형                   | 특징                |
+| ----------------------- | ----------------- |
+| \[파이널] 본문 유지 내신 기출 20문제 | 원문 그대로 출제되는 유형 대비 |
+| \[파이널] 본문 변형 내신 기출 20문제 | 변형 출제 유형 대비       |
+| \[문법 Lv.3] 기출 유형 20문제   | 문법 포인트 집중 학습      |
 
-{% endstep %}
-
-{% step %}
-### 입력 후 \[다음] 버튼을 클릭해 주세요
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.23.09.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 과제를 부여할 날짜를 클릭하여 선택해 주시고, 다음 버튼을 클릭해 주세
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.23.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.14.45.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 
 {% step %}
-### 클래스/학생 선택 후 과제내기완료 버튼 클릭
+### 학생에게 과제 부여하기
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.24.08.png" alt=""><figcaption></figcaption></figure>
+수업 생성 후 아래 학습을 과제로 내주세요:
 
+**단어 학습**
 
-{% endstep %}
+* 전체 단어 학습
 
-{% step %}
-### 학생 계정 로그인
+**문장 학습**
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.25.02.png" alt=""><figcaption></figcaption></figure>
+* 어순배열
+* 빈칸 써보기
 
+**문제 학습**
 
-{% endstep %}
+* 문제 풀이
 
-{% step %}
-### 부여된 과제 클릭 후 과제 시작 버튼 클릭
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.26.07 (1).png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 손글씨 업로드 파일 클릭 후 업로드
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.26.32.png" alt=""><figcaption></figcaption></figure>
-
-<예시 손글씨 파일>
-
-<figure><img src="../../.gitbook/assets/20251113_130437 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 업로드하면 자동으로 글씨가 올라갑니다. 내용 수정할 수 있고 \[제출하기] 버튼을 클릭하면 첨삭이 진행됩니다.
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.27.19.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 첨삭 완료되면 총평/내용 다 확인할 수 있고, \[다시 영작하기] 를 통해 다시 작성할 수도 있고, \[최종 제출하고 나가기] 버튼으로 최종 제출할 수 있습니다
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.15.png" alt=""><figcaption></figcaption></figure>
-
-
-{% endstep %}
-
-{% step %}
-### 과제가 초록색으로 완료되고, \[리포트] 버튼을 클릭하여 결과를 볼 수 있습니다.
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.48.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.29.07.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.15.11.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
+
+### ⏱️ 예상 소요 시간
+
+* 이미지 준비: 2\~3분
+* 수업 생성: 3\~5분
+* 과제 부여: 1\~2분
+
+**총 10분 이내**로 외부지문 대비 수업 완성!
