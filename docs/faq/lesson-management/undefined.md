@@ -26,7 +26,7 @@
 {% endstep %}
 
 {% step %}
-###
+### 날짜와 다음
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.23.28.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,37 @@
 {% endstep %}
 
 {% step %}
-###
+### 클래스/학생 선택 후 과제내기완료 버튼 클릭
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.24.08.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 학생 계정 로그인
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.25.02.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 부여된 과제 클릭 후 과제 시작 버튼 클릭
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.26.07 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 손글씨 업로드 파일 클릭 후 업로드
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.26.32.png" alt=""><figcaption></figcaption></figure>
+
+<예시 손글씨 파일>
+
+<figure><img src="../../.gitbook/assets/20251113_130437 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -42,11 +72,7 @@
 {% step %}
 ###
 
-
-{% endstep %}
-
-{% step %}
-###
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.15.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -54,47 +80,9 @@
 {% step %}
 ###
 
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.48.png" alt=""><figcaption></figcaption></figure>
 
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
-
-
-{% endstep %}
-
-{% step %}
-###
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.29.07.png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
