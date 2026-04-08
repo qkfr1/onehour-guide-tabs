@@ -50,7 +50,9 @@
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.14.45.png" alt=""><figcaption></figcaption></figure>
 
+생성된 수업 결과 \[이미지를 클릭해 확인해보세요!]&#x20;
 
+<div><figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.47.59.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.48.06.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.48.17.png" alt=""><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
