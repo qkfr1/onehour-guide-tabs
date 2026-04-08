@@ -10,7 +10,7 @@
 {% endstep %}
 
 {% step %}
-### 화면을 스크롤하여 \[에세이 설정] 부분을 확인하고, 주제를 직접 입력하거나 \[주제 자동 생성] 버튼을 통해 AI
+### 화면을 스크롤하여 \[에세이 설정] 부분을 확인하고, 주제를 직접 입력하거나 \[주제 자동 생성] 버튼을 통해 AI에게 주제를 받으세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.22.45.png" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@
 {% endstep %}
 
 {% step %}
-### 입력 후 \[다음]&#x20;
+### 입력 후 \[다음] 버튼을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.23.09.png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@
 {% endstep %}
 
 {% step %}
-### 날짜와 다음
+### 과제를 부여할 날짜를 클릭하여 선택해 주시고, 다음 버튼을 클릭해 주세
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.23.28.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,7 +70,15 @@
 {% endstep %}
 
 {% step %}
-###
+### 업로드하면 자동으로 글씨가 올라갑니다. 내용 수정할 수 있고 \[제출하기] 버튼을 클릭하면 첨삭이 진행됩니다.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.27.19.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 첨삭 완료되면 총평/내용 다 확인할 수 있고, \[다시 영작하기] 를 통해 다시 작성할 수도 있고, \[최종 제출하고 나가기] 버튼으로 최종 제출할 수 있습니다
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.15.png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +86,7 @@
 {% endstep %}
 
 {% step %}
-###
+### 과제가 초록색으로 완료되고, \[리포트] 버튼을 클릭하여 결과를 볼 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.48.png" alt=""><figcaption></figcaption></figure>
 
