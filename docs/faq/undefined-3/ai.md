@@ -93,7 +93,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-#### AI 첨삭이 완료되면 **총평**과 **항목별 점수**(어휘 사용, 구성, 문법, 유창성, 내용)를 한눈에 확인하실 수 있습니다. 총평에는 잘한 점과 점수를 향상시키기 위한 구체적인 개선 방향이 함께 제공됩니다. 피드백을 반영하여 다시 작성하고 싶은 경우 **\[다시 영작하기]** 버튼을 클릭하면 재작성이 가능하며, 최종 결과물에 만족하시면 **\[최종 제출하고 나가기]** 버튼을 클릭하여 과제를 완료합니다.
+#### AI 첨삭이 완료되면 **총평**과 **항목별 점수**(어휘 사용, 구성, 문법, 유창성, 내용)를 한눈에 확인하실 수 있습니다. 피드백을 반영하여 다시 작성하고 싶은 경우 **\[다시 영작하기]** 버튼을 클릭하면 재작성이 가능하며, 최종 결과물에 만족하시면 **\[최종 제출하고 나가기]** 버튼을 클릭하여 과제를 완료합니다.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.15.png" alt=""><figcaption></figcaption></figure>
 
@@ -101,12 +101,23 @@ description: >-
 {% endstep %}
 
 {% step %}
-#### 학생이 과제를 최종 제출하면, 과제보기 화면에서 해당 과제가 **초록색(완료)** 상태로 표시됩니다. 선생님은 **\[리포트]** 버튼을 클릭하시면 해당 학생의 에세이 과제 수행 결과를 상세하게 확인하실 수 있습니다. 리포트에는 회차별 총점, 어휘 사용, 구성, 문법, 유창성, 내용 등 항목별 세부 점수와 AI 총평이 포함되어 있어, 학생의 라이팅 실력을 체계적으로 파악하고 지도하실 수 있습니다.
+#### 학생이 과제를 최종 제출하면, 과제보기 화면에서 해당 과제가 **초록색(완료)** 상태로 표시됩니다. 선생님은 **\[리포트]** 버튼을 클릭하시면 해당 학생의 에세이 과제 수행 결과를 상세하게 확인하실 수 있습니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.28.48.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 10.29.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.50.17 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.50.31 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.52.09 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.52.18 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.52.25 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-08 오전 11.52.35 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
 {% endstepper %}
+
