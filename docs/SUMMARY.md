@@ -17,6 +17,7 @@
   * [학생 계정 바로가기](teacher/student-management/quick_login.md)
 * [수업 관리](teacher/lesson-management/README.md)
   * [수업 생성하기](teacher/lesson-management/create/README.md)
+    * [기출 쌍둥이 변형 문제](teacher/lesson-management/create/undefined.md)
     * [작업 상태창](teacher/lesson-management/create/task-queue.md)
   * [수업 수정하기](teacher/lesson-management/edit/README.md)
     * [문장 수정 방법](teacher/lesson-management/edit/sentence.md)
