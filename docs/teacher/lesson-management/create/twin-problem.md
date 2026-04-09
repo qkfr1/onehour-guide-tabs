@@ -31,8 +31,6 @@
 * 암호가 걸린 PDF는 지원되지 않습니다
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2026-04-09 오후 12.52.55.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-09 오후 12.52.55 (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
