@@ -59,6 +59,9 @@
   * [결제 FAQ](teacher/billing/faq.md)
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
+* [내신 대비하기](teacher/undefined/README.md)
+  * [외부지문 변형 문제](teacher/undefined/undefined.md)
+  * [기출 쌍둥이 변형 문제](teacher/undefined/undefined-1.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
 
