@@ -61,7 +61,7 @@
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
 * [내신 대비](teacher/undefined/README.md)
-  * [1. 사진 업로드 → 변형문제 생성](teacher/undefined/undefined.md)
+  * [1. 이미지 업로드 → 변형문제 생성](teacher/undefined/undefined.md)
   * [2. 본문 텍스트 입력  → 변형문제 생성](teacher/undefined/undefined-1.md)
   * [3. 기출문제 바탕 → 킬러 문항 대비](teacher/undefined/3..md)
 
