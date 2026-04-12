@@ -51,8 +51,7 @@
 6. **문제 생성이 완료되었다면 "수업관리"에서 확인하실 수 있습니다.**
 
 * 이후 아래 2가지 용도에 따라 활용하실 수 있습니다!
-  * 과제 내기: 온라인 학습용, 학생에게 과제 부여
-    * [https://1hour.gitbook.io/guide/teacher/assignment-management](https://1hour.gitbook.io/guide/teacher/assignment-management)
+  * 과제 내기: 온라인 학습용, 학생에게 과제 부여 [\*자세한 가이드는 해당 페이지를 확인해 주세요!](https://1hour.gitbook.io/guide/teacher/assignment-management)
   * 학습지 만들기: 오프라인 수업용, 프린트 학습지를 만드는 용도
 
 <figure><img src="../../.gitbook/assets/SE-ae973fa1-2ed2-4a89-972c-4f7fae0f0f61.png" alt=""><figcaption></figcaption></figure>
