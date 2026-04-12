@@ -14,13 +14,19 @@
 
 #### III. 이미지를 보며 따라하기
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.26.51.png" alt=""><figcaption><p>1.우상단 "+ 수업 생성" 버튼 클릭 후 "외부지문 변형 문제" 선택해 주세요</p></figcaption></figure></div>
+1. 우상단 "+ 수업 생성" 버튼 클릭 후 "외부지문 변형 문제" 선택해 주세요.
+
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.26.51.png" alt=""><figcaption></figcaption></figure></div>
 
 
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.43.png" alt=""><figcaption><p>2.갖고 계신 사진파일을 업로드 합니다. 파일 확장자 JPG, JPEG, PNG를 유의해주세요!</p></figcaption></figure>
+2. 갖고 계신 사진파일을 업로드 합니다. 파일 확장자 JPG, JPEG, PNG를 유의해주세요!
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.43.png" alt=""><figcaption></figcaption></figure>
 
 
+
+3. 최대 10장까지 추가 가능하오니, 본문이 긴 경우에도 얼마든지 생성이 가능합니다!
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.52.png" alt=""><figcaption></figcaption></figure>
 
