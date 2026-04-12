@@ -41,11 +41,13 @@
 
 
 
-5. **문제 생성이 완료되었다면 "수업관리"에서 확인하실 수 있어요.**
-   *   이후 아래 2가지 용도에 따라 활용하실 수 있습니다.
+5.  **문제 생성이 완료되었다면 "수업관리"에서 확인하실 수 있어요.**
 
-       * \[과제 내기] 온라인 학습용, 학생에게 과제 부여 [\*자세한 가이드는 해당 페이지를 확인해 주세요!](https://1hour.gitbook.io/guide/teacher/assignment-management)
-       * \[학습지 만들기] 오프라인 수업용, 프린트 학습지를 만드는 용도
+    *   이후 아래 2가지 용도에 따라 활용하실 수 있습니다.
 
-       <figure><img src="../../.gitbook/assets/SE-c7481ad8-50cc-4a60-91ec-fc468b2952b3.png" alt=""><figcaption></figcaption></figure>
+        * \[과제 내기] 온라인 학습용, 학생에게 과제 부여 [\*자세한 가이드는 해당 페이지를 확인해 주세요!](https://1hour.gitbook.io/guide/teacher/assignment-management)
+        * \[학습지 만들기] 오프라인 수업용, 프린트 학습지를 만드는 용도
 
+
+
+    <figure><img src="../../.gitbook/assets/SE-c7481ad8-50cc-4a60-91ec-fc468b2952b3.png" alt=""><figcaption></figcaption></figure>
