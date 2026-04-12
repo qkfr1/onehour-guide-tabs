@@ -22,21 +22,27 @@
 
 2. **갖고 계신 사진파일을 업로드 합니다.**
 
-_\*파일 확장자 JPG, JPEG, PNG만 가능합니다. PDF 파일을 갖고 계시다면 "3.기출문제 바탕 → 킬러 문항 대비" 가이드로 이동해 주세요._
+* 파일 확장자 JPG, JPEG, PNG만 가능합니다. PDF 파일을 갖고 계시다면 "3.기출문제 바탕 → 킬러 문항 대비" 가이드로 이동해 주세요.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.43.png" alt=""><figcaption></figcaption></figure>
 
 
 
-3. **최대 10장까지 추가 가능하오니, 본문이 긴 경우에도 얼마든지 생성이 가능합니다!**
+3. **최대 10장까지 추가 가능하오니, 본문이 긴 경우에도 얼마든지 생성이 가능해요!**
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.52.png" alt=""><figcaption></figcaption></figure>
 
 
 
+4. **원하는 변형 문제 유형을 선택해 주세요.**
+
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.29.57.png" alt=""><figcaption></figcaption></figure>
 
 
+
+5. **"작업목록" 진행 중 상태가 완료되면 문제 생성이 끝나요.**
+
+* 굳이 문제 생성 시간을 기다리지 않아도 됩니다. 다른 문제를 동시에 바로 생성하실 수 있어요.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.30.44.png" alt=""><figcaption></figcaption></figure>
 
