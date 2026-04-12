@@ -42,11 +42,18 @@
 
 5. **"작업목록" 진행 중 상태가 완료되면 문제 생성이 끝나요.**
 
-* 굳이 문제 생성 시간을 기다리지 않아도 됩니다. 다른 문제를 동시에 바로 생성하실 수 있어요.
+* 굳이 '문제 생성 시간'을 기다리지 않아도 됩니다. 동시에 다른 문제를 바로 생성하실 수 있어요!
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-12 오후 3.30.44.png" alt=""><figcaption></figcaption></figure>
 
 
+
+6. **문제 생성이 완료되었다면 "수업관리"에서 확인하실 수 있습니다.**
+
+* 이후 아래 2가지 용도에 따라 활용하실 수 있습니다!
+  * 과제 내기: 온라인 학습용, 학생에게 과제 부여
+    * [https://1hour.gitbook.io/guide/teacher/assignment-management](https://1hour.gitbook.io/guide/teacher/assignment-management)
+  * 학습지 만들기: 오프라인 수업용, 프린트 학습지를 만드는 용도
 
 <figure><img src="../../.gitbook/assets/SE-ae973fa1-2ed2-4a89-972c-4f7fae0f0f61.png" alt=""><figcaption></figcaption></figure>
 
