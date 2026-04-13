@@ -10,11 +10,9 @@
 
 #### II. 영상 보며 따라하기
 
-* 영상 시작부터 1분 22초까지 해당하는 내용입니다.
+{% embed url="https://youtu.be/uTjHykiMA5I" %}
 
-{% embed url="https://www.youtube.com/watch?v=Yf16Su0Ylx0" %}
 
-####
 
 #### III. 이미지 보며 따라하기
 
