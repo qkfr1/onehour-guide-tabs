@@ -44,3 +44,12 @@
 6. **이후 과제 현황을 확인하실 수 있어요.**
 
 <figure><img src="../.gitbook/assets/스크린샷 2026-04-13 오후 8.24.05.png" alt=""><figcaption></figcaption></figure>
+
+
+
+7. II-1번 항목 통해 "단어 프로그램을 만들고 싶은 수업"을 선택하였다 하더라도, **수업 중에서도 "단어 범위를 지정"해서 과제를 내주고 싶으신가요?**
+
+* [해당 가이드](https://1hour.gitbook.io/guide/faq/undefined-3/undefined-7) 통해 자세히 작성해두었으니 참고해 주세요!
+
+<figure><img src="../.gitbook/assets/스크린샷 2026-04-13 오후 9.27.44.png" alt=""><figcaption></figcaption></figure>
+
