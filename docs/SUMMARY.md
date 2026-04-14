@@ -5,11 +5,12 @@
 
 ## 선생님 가이드 <a href="#teacher" id="teacher"></a>
 
-* [내신 대비](teacher/undefined/README.md)
+* [📍 내신 대비하기](teacher/undefined/README.md)
   * [1. 이미지 업로드 → 변형문제 생성](teacher/undefined/undefined.md)
   * [2. 본문 텍스트 입력  → 변형문제 생성](teacher/undefined/undefined-1.md)
   * [3. 기출문제 바탕 → 킬러 문항 대비](teacher/undefined/3..md)
-* [단어 프로그램 → 즐겁게 학습하기](teacher/undefined-1.md)
+* [📍 단어 프로그램 → 즐겁게 학습하기](teacher/undefined-1.md)
+* [📍 \[TTS 기능\] 텍스트 → 말하기 수업하기](teacher/tts.md)
 * [시작하기](<README (1).md>)
   * [회원가입](teacher/start/sign-up.md)
   * [로그인 및 회원정보 수정](teacher/start/login.md)
