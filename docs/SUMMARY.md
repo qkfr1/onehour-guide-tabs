@@ -54,6 +54,7 @@
   * [과제 복사하기/ 템플릿](teacher/assignment-management/template.md)
   * [워크시트 만들기](teacher/assignment-management/worksheet.md)
 * [데이터 관리](teacher/data-management/README.md)
+  * [클래스에서 과제 관리하기](teacher/data-management/class.md)
   * [학생 데이터](teacher/data-management/progress.md)
   * [랭킹](teacher/data-management/rangking.md)
   * [리포트 공유하기](teacher/data-management/report.md)
@@ -66,6 +67,7 @@
   * [결제 FAQ](teacher/billing/faq.md)
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
+* [Page 2](teacher/page-2.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
 
