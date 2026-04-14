@@ -11,6 +11,8 @@
   * [3. 기출문제 바탕 → 킬러 문항 대비](teacher/undefined/3..md)
 * [📍 단어 프로그램 → 즐겁게 학습하기](teacher/undefined-1.md)
 * [📍 \[TTS 기능\] 텍스트 → 말하기 수업하기](teacher/tts.md)
+* [📍 정답 오류 → 즉시 수정하기](teacher/undefined-2.md)
+* [📍 사진 촬영 → 텍스트 복사하기 (문제 생성 X)](teacher/x.md)
 * [시작하기](<README (1).md>)
   * [회원가입](teacher/start/sign-up.md)
   * [로그인 및 회원정보 수정](teacher/start/login.md)
