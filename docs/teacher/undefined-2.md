@@ -7,7 +7,7 @@
 
 #### II. 영상 보며 따라하기
 
-_\*빠른 시일 내 업데이트 예정입니다._
+{% embed url="https://youtu.be/D_cfB1SSQnE" %}
 
 
 
