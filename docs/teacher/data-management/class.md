@@ -12,7 +12,7 @@
 
 각 학생 행에서 5개의 바로가기 버튼을 통해 상세 정보에 빠르게 접근할 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-14 오후 3.36.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-14 오후 3.59.05.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
