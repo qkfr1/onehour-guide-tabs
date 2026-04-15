@@ -12,7 +12,9 @@
 
 상단 메뉴에서 **\[클래스]** → **\[랭킹 보러가기]** 클릭
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-01-15 오후 7.33.02 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-15 오후 3.07.43.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 

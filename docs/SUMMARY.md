@@ -69,7 +69,6 @@
   * [결제 FAQ](teacher/billing/faq.md)
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
-* [Page 2](teacher/page-2.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
 
