@@ -112,3 +112,7 @@
   * [비즈니스 파트너 플랜 도입 관련 자료 총정리](faq/undefined-5/undefined.md)
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-5/undefined-1.md)
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/undefined-5/undefined-2.md)
+
+***
+
+* [class assignment guide](class-assignment-guide.md)
