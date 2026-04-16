@@ -44,7 +44,7 @@
 <table data-header-hidden><thead><tr><th width="229.92578125"></th><th></th></tr></thead><tbody><tr><td><strong>항목</strong></td><td><strong>산정 방식</strong></td></tr><tr><td>학생 결제 최소 금액</td><td>학생당 최소 10,000원 이상</td></tr><tr><td>원아워 이용료</td><td>학생당 5,000원 (일할 계산 적용)</td></tr><tr><td>원아워 수수료</td><td>전체 결제 금액의 10%</td></tr><tr><td>부가세</td><td>(결제 금액 - 이용료 - 수수료) / 11</td></tr><tr><td>최종 수익금</td><td>학생 결제 금액 - 이용료 - 수수료 - 부가세</td></tr><tr><td>원천징수 세금</td><td>최종 수익금의 3.3% (소득세) *10원 단위 절사</td></tr></tbody></table>
 
 {% hint style="success" %}
-* [정산 예정 금액 계산기](https://docs.google.com/spreadsheets/d/1uC1zZQJJmn4s2rZX-TR8-sL4qs0LwI3JU9qBADSs5fM/edit?gid=0)&#x20;
+[수익 계산기](https://1hour.ai/kr/admin#pb-plan-calculator)
 
 이번 달 정산금을 확인하고 싶으시다면 위 링크를 눌러\
 학생 당 설정 금액과 결제 인원을 시트에 입력하면 환급 예정 금액을 자동으로 계산할 수 있습니다.
