@@ -107,12 +107,9 @@
   * [동영상 시청 과제를 부여하고 싶어요](faq/undefined-3/undefined-6.md)
   * [단어 범위나 문장 범위를 지정해서 과제를 내주고 싶어요](faq/undefined-3/undefined-7.md)
   * [과제 완료 후에 다시 보기를 원하는데 다시 보기 방법이 어떻게 되나요?](faq/undefined-3/undefined-8.md)
+  * [학생 화면에서는 과제가 있는데, 과제관리에서 클래스를 선택하면 안 보여요](faq/undefined-3/undefined-9.md)
 * [데이터 관리](faq/undefined-4.md)
 * [결제 및 구독권 안내](faq/undefined-5/README.md)
   * [비즈니스 파트너 플랜 도입 관련 자료 총정리](faq/undefined-5/undefined.md)
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/undefined-5/undefined-1.md)
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/undefined-5/undefined-2.md)
-
-***
-
-* [class assignment guide](class-assignment-guide.md)
