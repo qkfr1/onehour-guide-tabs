@@ -1,4 +1,4 @@
-# 3. 기출문제 바탕 → 킬러 문항 대비
+# iii. 기출문제 바탕 → 킬러 문항 대비
 
 #### I. 이런 분들에게 추천해요
 
@@ -18,13 +18,13 @@
 
 1. **우상단 "+ 수업 생성" 버튼 클릭 후 "기출 쌍둥이 변형 문제" 선택해 주세요.**
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-12 오전 9.45.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.20.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2. **갖고 계신 PDF 파일(=지난 시험의 기출문제)을 업로드 합니다.**
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-13 오전 7.00.33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.28.png" alt=""><figcaption></figcaption></figure>
 
 
 
