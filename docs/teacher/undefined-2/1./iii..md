@@ -39,7 +39,7 @@
 * 중등 문제를 넣으셔도 생성이 가능하기는 해요. 다만, 현재는 고등 위주여서 지문의 난이도가 조금 더 높아진다고 생각해주시면 됩니다.
 * 한 번 만들어서 결과를 보시고 학원에서 사용하실 수 있는 난이도인지 체크해 보시길 추천드려요!
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-13 오전 7.02.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.14.54.png" alt=""><figcaption></figcaption></figure>
 
 
 
