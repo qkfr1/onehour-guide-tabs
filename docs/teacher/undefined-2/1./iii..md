@@ -30,7 +30,7 @@
 
 3. **지문(=이번 시험에 나올 지문)을 기입해 주세요.**
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-13 오전 7.01.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.05.12.png" alt=""><figcaption></figcaption></figure>
 
 
 
