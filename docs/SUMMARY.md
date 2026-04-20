@@ -11,7 +11,7 @@
   * [3. 단어 프로그램 → 즐겁게 학습](teacher/undefined/3..md)
 * [📍 유초등](teacher/undefined-1/README.md)
   * [1. 소리영어](teacher/undefined-1/1./README.md)
-    * [i. 수업내용 → 자동/반복/한 문장씩 읽어주기](teacher/undefined-1/1./i..md)
+    * [i. 수업내용 읽어주기 → 연속/반복/한 번](teacher/undefined-1/1./i..md)
   * [2. ELT](teacher/undefined-1/2.-elt.md)
   * [3. 원서 영어도서관](teacher/undefined-1/3..md)
 * [📍 중고등](teacher/undefined-2/README.md)
