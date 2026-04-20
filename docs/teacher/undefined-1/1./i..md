@@ -12,7 +12,7 @@
 
 #### II. 영상 보며 따라하기
 
-
+{% embed url="https://youtu.be/B2LI9oEzIrg" %}
 
 
 
