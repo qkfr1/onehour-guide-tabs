@@ -6,7 +6,7 @@
 ## 선생님 가이드 <a href="#teacher" id="teacher"></a>
 
 * [📍 유초등](teacher/undefined/README.md)
-  * [1. 유튜브 활용하여 챕터북 읽히기](teacher/undefined/1..md)
+  * [1. 유튜브 챕터북으로 수업 자료 만들고, 문제 만들고 싶어요.](teacher/undefined/1.-..md)
   * [2. 소리영어](teacher/undefined/2..md)
   * [3. 원서 영어도서관](teacher/undefined/3..md)
   * [4. ELT](teacher/undefined/4.-elt.md)
