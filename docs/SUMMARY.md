@@ -27,7 +27,7 @@
   * [2. 본문 복사붙여넣기](teacher/undefined-3/2..md)
   * [3. 단어 프로그램 → 즐겁게 학습](teacher/undefined-3/3..md)
 * [📍 세미나 따라잡기](teacher/undefined-4/README.md)
-  * [원아워로 중고등 내신대비 200% 활용하기 / 오만한 영어 이태연 원장 (26.04.17)](teacher/undefined-4/200-26.04.17.md)
+  * [원아워로 중고등 내신대비 200% 활용하기 / 오만한 영어 이태연 원장 (26.04.17)](teacher/undefined-4/seminar260417.md)
 * [실시간 수업 활용](<teacher/undefined-4/README (1).md>)
   * [i. 수업내용 읽어주기 → 연속/반복/한 번](teacher/undefined-4/i..md)
 * [시작하기](<README (1).md>)
