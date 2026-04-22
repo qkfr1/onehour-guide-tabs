@@ -9,7 +9,7 @@
 1. iPhone에서 **Safari** 앱을 실행하고 원아워 사이트로 이동하세요.
 2. Safari 하단 툴바에서 **더 보기(⋯) 버튼**을 탭하세요.
 
-<figure><img src=".gitbook/assets/task-1.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/task-1.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -23,7 +23,7 @@
 화면을 위로 살짝 스크롤하면 하단 툴바가 나타납니다. 또는 화면 하단 중앙의 네모+화살표(↑) 모양 공유 아이콘을 바로 탭해도 됩니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/task-2.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/task-2.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@
 1. 공유 시트 하단 옵션 목록을 **아래로 스크롤**하세요.
 2. **'홈 화면에 추가'** 항목을 탭하세요.
 
-<div><figure><img src=".gitbook/assets/IMG_7331-edited.png" alt="" width="171"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_7332-edited.png" alt="" width="171"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/IMG_7331-edited.png" alt="" width="171"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_7332-edited.png" alt="" width="171"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -41,7 +41,7 @@
 1. 바로가기 이름 입력란에 원하는 이름(예: **원아워**)이 표시되는지 확인하세요.
 2. 필요하면 이름을 수정한 뒤 오른쪽 상단 **'추가'** 버튼을 탭하세요.
 
-<figure><img src=".gitbook/assets/task-4.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/task-4.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,6 +56,6 @@
 홈 화면을 좌우로 넘겨 다른 페이지에 추가되지 않았는지 확인하세요.&#x20;
 {% endhint %}
 
-<figure><img src=".gitbook/assets/task-5.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/task-5.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

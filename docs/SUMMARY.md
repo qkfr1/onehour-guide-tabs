@@ -33,6 +33,7 @@
   * [로그인 및 회원정보 수정](teacher/start/login.md)
   * [회원 탈퇴](teacher/start/undefined.md)
   * [공지사항](teacher/start/undefined-1.md)
+  * [홈 화면에 원아워 바로가기 만들기 (Safari)](teacher/start/safari.md)
 * [클래스 관리](teacher/class-management/README.md)
   * [클래스 책장 관리](teacher/class-management/bookshelf.md)
   * [클래스 책 관리](teacher/class-management/book.md)
@@ -124,7 +125,3 @@
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/undefined-2.md)
   * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
 * [Page 2](faq/page-2.md)
-
-***
-
-* [홈 화면에 원아워 바로가기 만들기 (Safari)](safari.md)
