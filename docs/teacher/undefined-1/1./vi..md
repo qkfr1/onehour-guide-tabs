@@ -47,7 +47,7 @@
 
 
 
-6. ㅇㅇ
+6. 선생님 계정 로그아웃 후 원아워 로그인 페이지로 돌아가서, 학생 아이디/비밀번호 입력 후 \[로그인 하기] 버튼을 클릭해 주세요.
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.20.39.png" alt=""><figcaption></figcaption></figure>
 
@@ -55,30 +55,23 @@
 
 
 
-7. 과제&#x20;
+7. 과제 클릭
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.22.49.png" alt=""><figcaption></figcaption></figure>
 
 
 
-5. ㅇㅇㅇ
+8. 과제를 수행해보시면 문제 피드백이 나오지 않고 넘어감
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.23.34.png" alt=""><figcaption></figcaption></figure>
 
 
 
-6. ㅇㅇㅇ
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.23.46.png" alt=""><figcaption></figcaption></figure>
+
+9. 오답 풀기 없이 과제가 완료됩니다
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.23.52.png" alt=""><figcaption></figcaption></figure>
 
 
-
-7. ㅇㅇㅇ
-
-
-
-8. ㅇㅇㅇ
-
-
-
-9. ㅇㅇㅇ
-
-
-
-10. ㅇㅇㅇ
-11.
 
