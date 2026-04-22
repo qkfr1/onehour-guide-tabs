@@ -6,9 +6,10 @@
 ## 선생님 가이드 <a href="#teacher" id="teacher"></a>
 
 * [📍 유초등](teacher/undefined/README.md)
-  * [1. 소리영어](teacher/undefined/1..md)
-  * [2. ELT](teacher/undefined/2.-elt.md)
+  * [1. 유튜브 활용하여 챕터북 읽히기](teacher/undefined/1..md)
+  * [2. 소리영어](teacher/undefined/2..md)
   * [3. 원서 영어도서관](teacher/undefined/3..md)
+  * [4. ELT](teacher/undefined/4.-elt.md)
 * [📍 중고등](teacher/undefined-1/README.md)
   * [1. 내신대비](teacher/undefined-1/1./README.md)
     * [i. 이미지 업로드 → 변형문제 생성](teacher/undefined-1/1./i..md)
