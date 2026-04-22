@@ -122,3 +122,8 @@
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/payment/undefined-1.md)
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/undefined-2.md)
   * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
+* [Page 2](faq/page-2.md)
+
+***
+
+* [홈 화면에 원아워 바로가기 만들기 (Safari)](safari.md)
