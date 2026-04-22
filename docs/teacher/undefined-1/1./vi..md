@@ -27,21 +27,35 @@
 
 
 
-3. 과제를 내주실 문제 세트를 클릭&#x20;
+3. 과제로 내주실 문제 세트를 클릭 후, \[다음] 버튼을 클릭해 주세요
 
 <figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.18.30.png" alt=""><figcaption></figcaption></figure>
 
 
 
+4. 과제를 내주실 날짜 클릭 후, \[다음] 버튼을 클릭해 주세요
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.18.55.png" alt=""><figcaption></figcaption></figure>
 
 
 
 
-3. ㅇㅇㅇ
+
+5. 반/학생 선택 후 \[과제 내기 완료] 버튼을 클릭해 주시면 과제 부여가 완료됩니다.
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.19.51.png" alt=""><figcaption></figcaption></figure>
 
 
 
-4. ㅇㅇㅇ
+6. ㅇㅇ
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-22 오후 7.20.39.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+7. 과제&#x20;
 
 
 
