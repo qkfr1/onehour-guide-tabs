@@ -18,6 +18,7 @@
     * [iv. 정답 오류 → 즉시 수정하기](teacher/undefined-1/1./iv..md)
     * [v. 변형문제 생성 → 파이널 시험지 랜덤 인쇄](teacher/undefined-1/1./v..md)
     * [vi. 파이널 문제풀이 → 시험 모드](teacher/undefined-1/1./vi..md)
+    * [vii. 프롬프트 입력 → 타겟 문법 학습](teacher/undefined-1/1./vii..md)
   * [2. 모의고사](teacher/undefined-1/2..md)
   * [3. 듣기평가](teacher/undefined-1/3..md)
 * [📍 영작](teacher/undefined-2.md)
