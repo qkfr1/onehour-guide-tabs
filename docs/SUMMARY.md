@@ -108,7 +108,7 @@
   * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/lesson-management/pdf.md)
   * [원아워로 문법 문제, 3800제 같은 문제 만들 수 있나요?](faq/lesson-management/3800.md)
 * [커리큘럼 관리](faq/curriculum/README.md)
-  * [커리큘럼으로 과제내기](faq/curriculum/assignment.md)
+  * [커리큘럼 생성부터 과제내기까지 한번에 따라하기](faq/curriculum/assignment.md)
 * [과제 관리](faq/undefined-3/README.md)
   * [더빙 시 학습자가 더빙 종료를 누르지 않아도 일정 시간이 지나면 더빙이 종료되나요?](faq/undefined-3/undefined.md)
   * [워크시트는 따로 파일 저장이 안되나요?](faq/undefined-3/undefined-1.md)
