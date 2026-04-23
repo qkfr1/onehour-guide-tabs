@@ -127,3 +127,8 @@
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/undefined-2.md)
   * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
 * [Page 2](faq/page-2.md)
+
+***
+
+* [커리큘럼](undefined.md)
+* [커리큘럼 (1)](1.md)
