@@ -124,5 +124,6 @@
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/payment/undefined-1.md)
   * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/undefined-2.md)
   * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
+  * [원아워 구독권 구매하는 방법](faq/payment/coupon-1.md)
 * [기타사항](faq/undefined-4/README.md)
   * [사진 촬영 → 텍스트 복사 (문제 생성 X)](faq/undefined-4/x.md)
