@@ -1,4 +1,4 @@
-# 쿠폰 등록 및 구독권 구매하기
+# 쿠폰 등록 후 구독권 구매하는 방법
 
 
 
@@ -12,7 +12,7 @@
 {% endstep %}
 
 {% step %}
-### \[구독 결제 관리] 버튼요을 클릭해 주세요
+### \[구독 결제 관리] 버튼을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-17 오후 8.17.19.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@
 {% endstep %}
 
 {% step %}
-### \[포인트 쿠폰 등록] 버튼을 클릭해 주세
+### \[포인트 쿠폰 등록] 버튼을 클릭해 주세요
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-04-17 오후 8.20.16 (1).png" alt=""><figcaption></figcaption></figure>
 

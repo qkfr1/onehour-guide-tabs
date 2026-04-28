@@ -126,4 +126,3 @@
   * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
 * [기타사항](faq/undefined-4/README.md)
   * [사진 촬영 → 텍스트 복사 (문제 생성 X)](faq/undefined-4/x.md)
-* [Page 2](faq/page-2.md)
