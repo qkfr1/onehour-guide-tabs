@@ -1,6 +1,2 @@
----
-hidden: true
----
-
-# Page 1
+# 📍 단어
 
