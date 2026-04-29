@@ -17,7 +17,7 @@
       * [ii. 외부지문 활용](teacher/undefined-1/1./undefined/ii..md)
     * [\[기능\] 내신 대비 문제 생성 기능](teacher/undefined-1/1./undefined-1/README.md)
       * [i. 이미지 업로드 → 변형문제 생성](teacher/undefined-1/1./i..md)
-      * [ii. 본문 텍스트 입력  → 변형문제 생성](teacher/undefined-1/1./ii..md)
+      * [ii. 본문 입력  → 변형문제 생성](teacher/undefined-1/1./ii..md)
       * [iii. 기출문제 바탕 → 킬러 문항 대비](teacher/undefined-1/1./iii..md)
       * [iv. 정답 오류 → 즉시 수정하기](teacher/undefined-1/1./iv..md)
       * [v. 변형문제 생성 → 파이널 시험지 랜덤 인쇄](teacher/undefined-1/1./v..md)
