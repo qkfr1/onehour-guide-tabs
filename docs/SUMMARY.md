@@ -93,6 +93,7 @@
   * [결제 FAQ](teacher/billing/faq.md)
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
+* [온라인 학원 만들기](teacher/undefined-5.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
 
