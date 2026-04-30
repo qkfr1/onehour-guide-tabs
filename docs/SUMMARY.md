@@ -76,8 +76,9 @@
   * [과제 삭제하기](teacher/assignment-management/delete.md)
   * [과제 복사하기/ 템플릿](teacher/assignment-management/template.md)
   * [워크시트 만들기](teacher/assignment-management/worksheet.md)
+* [학부모 관리](teacher/undefined-5/README.md)
+  * [학생 리포트 카카오 알림 발송하기](teacher/undefined-5/kakaonoti.md)
 * [데이터 관리](teacher/data-management/README.md)
-  * [학생 리포트 카카오 알림 발송하기](teacher/data-management/kakaonoti.md)
   * [클래스에서 과제 관리하기](teacher/data-management/class.md)
   * [학생 데이터](teacher/data-management/progress.md)
   * [랭킹](teacher/data-management/rangking.md)
@@ -91,7 +92,7 @@
   * [결제 FAQ](teacher/billing/faq.md)
   * [변경되는 과금 정책](teacher/billing/undefined-1.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
-* [온라인 학원 만들기](teacher/undefined-5.md)
+* [온라인 학원 만들기](teacher/undefined-6.md)
 
 ## 학생 가이드 <a href="#student" id="student"></a>
 
