@@ -9,7 +9,9 @@
 > 학원명, 학생 이름, 과제 완료율, 학습량, 학습 시간 등이 포함되며, \
 > 마지막에 상세 리포트 링크 버튼이 함께 전송됩니다.
 >
-> <img src="../../.gitbook/assets/알림 발송 예시.png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.13.28 (1).png" alt="" data-size="original">
+>
+>
 
 ***
 
@@ -54,8 +56,6 @@
 
 &#x20;좌측부터 순서대로 입력해주세요.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 10.26.14.png" alt="" width="354"><figcaption></figcaption></figure>
-
 #### 1. 알림명 입력
 
 상단의 알림명에 구분하기 쉬운 이름을 입력하세요. (최대 30자)
@@ -63,12 +63,16 @@
 * 예: `1반 주간 리포트`, `초등부 월요일 알림`
 * 비워두면 `알림_YYYYMMDD` 형식으로 자동 입력됩니다
 
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.11.21.png" alt=""><figcaption></figcaption></figure>
+
 #### 2. 수신자 선택
 
 `학부모` 또는 `학생 본인` 중 누구에게 발송할지 선택하세요.
 
 * **학부모**: 학부모 휴대폰 번호로 발송
 * **학생 본인**: 학생 휴대폰 번호로 발송
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.11.37.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 수신자를 변경하면 중앙 컬럼에서 등록해야 할 번호 종류도 함께 바뀌어요.
@@ -80,6 +84,8 @@
 
 * **요일**: 1개 이상 선택 (복수 선택 가능, 예: 월·수·금)
 * **시간**: 오전 7시 \~ 오후 9시 사이 1시간 단위
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.11.55.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **알아두세요**
@@ -100,7 +106,9 @@
 
 * 학습 시간 (어제 / 이번 달 누적 / 하루 평균)
 * 총 학습 현황 (전체 누적)
-* 학습량 6종: 단어, 문장, 문제, 말하기, 영작, 해석
+*   학습량 6종: 단어, 문장, 문제, 말하기, 영작, 해석
+
+    <figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.12.10.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 학습량은 항목별로 개별 선택할 수 있어요.
@@ -113,6 +121,8 @@
 ### 학생 선택 및 번호 등록
 
 알림을 받을 학생 또는 학부모의 휴대폰 번호를 등록해주세요.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 10.29.50.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 1. 학생 찾기
 
@@ -139,8 +149,6 @@
 **번호가 등록되지 않은 학생은 선택할 수 없어요.** 먼저 번호를 입력한 뒤 선택해주세요.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 10.29.50.png" alt=""><figcaption></figcaption></figure>
-
 
 {% endstep %}
 
@@ -156,15 +164,17 @@
 발송 전에 **선택한 학생 1\~2명을 골라 미리보기**로 확인하면, 데이터가 잘 들어가는지 점검할 수 있어요.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.13.28.png" alt=""><figcaption></figcaption></figure>
+
 
 {% endstep %}
 
 {% step %}
 ### 발송 예약 완료
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 10.31.02.png" alt=""><figcaption></figcaption></figure>
-
 모든 설정이 끝났다면 우측 상단의 **발송 예약** 버튼을 클릭하세요.
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-30 오전 11.14.30.png" alt=""><figcaption></figcaption></figure>
 
 이제 설정한 요일·시간이 되면 **자동으로 발송**돼요.&#x20;
 {% endstep %}
