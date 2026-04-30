@@ -77,6 +77,7 @@
   * [과제 복사하기/ 템플릿](teacher/assignment-management/template.md)
   * [워크시트 만들기](teacher/assignment-management/worksheet.md)
 * [데이터 관리](teacher/data-management/README.md)
+  * [학생 리포트 카카오 알림 발송하기](teacher/data-management/kakaonoti.md)
   * [클래스에서 과제 관리하기](teacher/data-management/class.md)
   * [학생 데이터](teacher/data-management/progress.md)
   * [랭킹](teacher/data-management/rangking.md)
