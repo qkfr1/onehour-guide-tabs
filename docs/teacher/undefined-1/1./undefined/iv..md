@@ -17,13 +17,13 @@
 
 1. **"수업관리" → 변경하실 "해당 수업"을 클릭해 주세요.**
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.53.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.53.28.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2. **우측 상단의 "수정하기" 눌러주세요.**
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.53.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.53.38.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,4 +32,4 @@
 * 1번: 해당 선택지의 내용을 수정하실 수 있어요.
 * 2번: 정답 번호를 변경하실 수 있어요.
 
-<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.54.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-14 오후 7.54.35.png" alt=""><figcaption></figcaption></figure>

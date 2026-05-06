@@ -19,7 +19,7 @@
     \
     먼저 원아워에서 외부 지문별로 변형문제 세트를 만들어 둡니다. 예를 들어 지문 1번부터 8번까지, 각 세트당 약 20문제씩 구성하면 총 160문제 이상의 문제 풀이 확보됩니다. 지문 수와 문제 수를 늘릴수록 문제은행의 규모는 더 커지겠죠.
 
-<figure><img src="../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.31.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.31.48.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,7 +29,7 @@
 
     원아워의 **책** 메뉴로 이동한 뒤 **책 생성** 버튼을 클릭합니다. 이름은 자유롭게 설정하면 되는데, 예를 들어 "내신 대비 문제집 문제은행"처럼 알아보기 쉽게 지정하면 관리가 편합니다. 그다음, 앞서 만들어 둔 문제 세트들을 선택해서 추가합니다. 여러 세트를 한꺼번에 선택할 수 있으니 필요한 만큼 체크한 후 저장하면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.22.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.22.25.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@
    \
    책이 만들어졌으면 **학습지** 버튼을 클릭합니다. 여기서 핵심 기능이 등장하는데요, 여러 수업(문제 세트)을 **하나의 학습지로 합칠** **수** 있습니다. "모아서 만들기"를 선택하면, 예를 들어 1,080문제가 하나의 문제 풀로 통합됩니다.
 
-<figure><img src="../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.33.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.33.19.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
@@ -47,7 +47,7 @@
    \
    30문제를 뽑으면 여러 지문에서 골고루 섞인 시험지가 만들어지고, 20문제를 추가하면 또 다른 구성의 시험지가 생깁니다. 50문제짜리 대형 모의고사도 클릭 한 번이면 완성이죠. 정답과 해설까지 자동으로 포함되니 별도로 답안지를 만들 필요도 없습니다.
 
-<figure><img src="../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.34.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/스크린샷_2026-04-07_오후_2.34.22.png" alt=""><figcaption></figcaption></figure>
 
 
 
