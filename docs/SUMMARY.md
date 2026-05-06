@@ -4,7 +4,7 @@
 
 * [📍 유초등](README.md)
   * [1. "유튜브 챕터북"으로 수업 자료 만들고, 문제 만들고 싶어요.](teacher/undefined/1..md)
-  * [2. 소리영어](teacher/undefined/2..md)
+  * [2. 소리영어](teacher/undefined/2..md)
   * [3. 원서 영어도서관](teacher/undefined/3..md)
   * [4. ELT](teacher/undefined/4.-elt.md)
 * [📍 중고등](teacher/undefined-1/README.md)
@@ -132,7 +132,3 @@
   * [사진 촬영 → 텍스트 복사 (문제 생성 X)](faq/undefined-4/x.md)
 * [Page 1](faq/page-1/README.md)
   * [guide writing principles](faq/page-1/guide-writing-principles.md)
-
-***
-
-* [소리영어](undefined.md)
