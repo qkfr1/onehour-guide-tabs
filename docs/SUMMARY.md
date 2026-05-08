@@ -35,7 +35,7 @@
   * [회원 탈퇴](teacher/start/undefined.md)
   * [공지사항](teacher/start/undefined-1.md)
   * [홈 화면에 원아워 바로가기 만들기 (Safari)](teacher/start/safari.md)
-  * [좌측 사이드바로 메뉴가 이동했어요](teacher/start/undefined-2.md)
+  * [좌측 사이드바로 메뉴가 이동했어요](teacher/start/lnb.md)
 * [클래스 관리](teacher/class-management/README.md)
   * [클래스 책장 관리](teacher/class-management/bookshelf.md)
   * [클래스 책 관리](teacher/class-management/book.md)
