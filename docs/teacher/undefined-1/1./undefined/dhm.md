@@ -10,9 +10,9 @@
 
 #### II. **영상 보며 따라하기**
 
-{% embed url="https://www.youtube.com/watch?t=&v=CRXuS9eA5OM" %}
+{% embed url="https://youtu.be/69J2CPRU8vo?si=IWo529gYtuFaG_22" %}
 
-####
+
 
 #### III. 이미지 보며 따라하기
 
