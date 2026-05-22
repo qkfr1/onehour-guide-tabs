@@ -43,6 +43,8 @@
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column width="25%" %}
 ## Speaking AI
@@ -61,6 +63,8 @@ Basic의 모든 기능에 더해, 말하기 수업과 발음 평가를 자동화
 수업 생성 AI 크레딧은 결제 금액의 12% 상당이 매월 기본 제공됩니다.
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 {% columns %}
 {% column width="25%" %}
@@ -82,6 +86,8 @@ Basic의 모든 기능에 더해, 영작과 해석 학습을 AI로 평가할 수
 수업 생성 AI 크레딧은 결제 금액의 12% 상당이 매월 기본 제공됩니다.
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 {% columns %}
 {% column width="25%" %}
