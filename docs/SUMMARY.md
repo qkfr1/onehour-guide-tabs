@@ -85,7 +85,7 @@
   * [과제 확인하기](teacher/data-management/assignment.md)
 * [결제 및 구독권 안내](teacher/billing/README.md)
   * [변경되는 요금제 정책](teacher/billing/undefined/README.md)
-    * [credit\_cost\_notice\_gitbook](teacher/billing/undefined/credit_cost_notice_gitbook.md)
+    * [수업 생성 AI 크레딧](teacher/billing/undefined/ai.md)
   * [아카데미 플랜](teacher/billing/organization.md)
   * [비즈니스 파트너 플랜](teacher/billing/student.md)
   * [연결제 플랜(학교)](teacher/billing/school.md)
