@@ -47,9 +47,7 @@
 
 ### 학원 규모별 기본 크레딧 (참고)
 
-* AI Pro 플랜(학생당 9,900원) 기준의 예시입니다.
-
-<table><thead><tr><th width="372.8515625">학생 수</th><th>월 기본 크레딧</th></tr></thead><tbody><tr><td>10명</td><td>약 740 CP</td></tr><tr><td>30명</td><td>약 2,227 CP</td></tr><tr><td>50명</td><td>약 3,712 CP</td></tr><tr><td>100명</td><td>약 7,425 CP</td></tr></tbody></table>
+<table><thead><tr><th width="117.9765625">학생 수</th><th width="195.13671875">Basic (5,900원·10%)</th><th>Speaking·Writing (7,900원·12%)</th><th>AI Pro (9,900원·15%)</th></tr></thead><tbody><tr><td>10명</td><td>약 295 CP</td><td>약 470 CP</td><td>약 740 CP</td></tr><tr><td>30명</td><td>약 885 CP</td><td>약 1,420 CP</td><td>약 2,227 CP</td></tr><tr><td>50명</td><td>약 1,475 CP</td><td>약 2,370 CP</td><td>약 3,712 CP</td></tr><tr><td>100명</td><td>약 2,950 CP</td><td>약 4,740 CP</td><td>약 7,425 CP</td></tr></tbody></table>
 
 ***
 
