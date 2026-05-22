@@ -20,6 +20,8 @@
 
 <table><thead><tr><th width="143.12109375">플랜</th><th width="132.99609375">가격</th><th width="326.41015625">주요 구성</th><th>기본 크래딧 제공비율</th></tr></thead><tbody><tr><td>Basic</td><td>5,900원</td><td>기본 학습 관리 + 원마켓 + 영상 더빙·녹화</td><td>10%</td></tr><tr><td>Speaking AI</td><td>7,900원</td><td>Basic + 발음 평가</td><td>12%</td></tr><tr><td>Writing AI</td><td>7,900원</td><td>Basic + 영작·해석 평가 + 내신 서술형</td><td>12%</td></tr><tr><td>AI Pro</td><td>9,900원</td><td>원아워의 모든 학습 기능</td><td>15%</td></tr></tbody></table>
 
+***
+
 {% columns %}
 {% column width="25%" %}
 ## Basic&#x20;
