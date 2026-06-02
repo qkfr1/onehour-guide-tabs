@@ -10,6 +10,14 @@
 
 ***
 
+### 영상 보며 따라하기
+
+
+
+{% embed url="https://youtu.be/ICpLOR18heQ" %}
+
+
+
 ### 설정 알아보기
 
 {% embed url="https://app.storylane.io/share/vmz297t2tfg1" %}
