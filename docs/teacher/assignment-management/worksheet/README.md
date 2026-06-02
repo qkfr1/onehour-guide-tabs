@@ -28,7 +28,7 @@
 
 ### 설정 알아보기
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="표지 생성하기" %}
