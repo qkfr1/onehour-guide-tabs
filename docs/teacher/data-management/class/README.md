@@ -12,7 +12,7 @@
 
 각 학생 행에서 5개의 바로가기 버튼을 통해 상세 정보에 빠르게 접근할 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-14 오후 3.59.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-14 오후 3.59.05.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -112,7 +112,7 @@
 * **오름차순 정렬 (↑)**: 0%부터 낮은 학생부터 순서대로 정리
 * **내림차순 정렬 (↓)**: 100%부터 높은 학생부터 순서대로 정리
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-04-14 오후 3.35.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-14 오후 3.35.52.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 과제 수행이 미흡한 학생들을 빠르게 파악하여 특별관리할 수 있습니다.
