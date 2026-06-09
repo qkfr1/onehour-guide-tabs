@@ -143,5 +143,6 @@
 
 ***
 
-* [구글시트\_자동연동\_설정안내](_-_.md)
 * [원아워 워크플로우](undefined.md)
+* [pricing guide](pricing-guide.md)
+* [pricing guide (1)](pricing-guide-1.md)

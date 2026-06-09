@@ -1,4 +1,4 @@
-# 변경되는 요금제 정책
+# pricing guide
 
 원아워가 학원 운영 방식에 맞춰 요금제를 새롭게 정리했습니다.
 
@@ -18,7 +18,7 @@
 * **수업 생성 AI에 크레딧(CP) 제도가 도입됩니다.** 매월 결제 금액의 일정 비율만큼 크레딧이 기본 제공되며, 기본 제공량을 넘겨 쓰실 때만 추가 구매가 필요합니다.
 * **모든 금액은 학생 1인당 월 이용료(부가세 포함)이며, 최소 10명부터 이용 가능합니다.**
 
-<table><thead><tr><th width="203.48828125">플랜</th><th width="188.1796875">월 이용료(학생 1인당)</th><th>한 줄 요약</th></tr></thead><tbody><tr><td>Basic</td><td>5,900원</td><td>기본 학습 관리 + 원마켓 + 영상 더빙·녹화</td></tr><tr><td>Speaking AI</td><td>7,900원</td><td>Basic + 발음 평가</td></tr><tr><td>Writing AI</td><td>7,900원</td><td>Basic + 영작·해석 </td></tr><tr><td>AI Pro</td><td>9,900원</td><td>원아워의 모든 학습 기능</td></tr></tbody></table>
+<table><thead><tr><th width="203.48828125">플랜</th><th width="188.1796875">월 이용료(학생 1인당)</th><th>한 줄 요약</th></tr></thead><tbody><tr><td>Basic</td><td>5,900원</td><td>기본 학습 관리 + 원마켓 + 영상 더빙·녹화</td></tr><tr><td>Speaking AI</td><td>7,900원</td><td>Basic + 발음 평가</td></tr><tr><td>Writing AI</td><td>7,900원</td><td>Basic + 영작·해석 평가 + 내신 서술형</td></tr><tr><td>AI Pro</td><td>9,900원</td><td>원아워의 모든 학습 기능</td></tr></tbody></table>
 
 ***
 
