@@ -113,7 +113,6 @@
   * [자동 생성된 문제를 재 생성하는 방법](faq/lesson-management/quizregenerate.md)
   * [자동 생성된 문제 세트 이름 수정하는 법](faq/lesson-management/quizregenerate-1.md)
   * [영어 지문 또는 단어장(PDF/엑셀)을 통해 단어 테스트 만드는 법](faq/lesson-management/pdf.md)
-  * [모의고사 지문이 내신 범위에요! 특정 학교의 내신 스타일대로 모고 지문 변형을 하고 싶어요.](faq/lesson-management/untitled.md)
   * [원아워로 문법 문제, 3800제 같은 문제 만들 수 있나요?](faq/lesson-management/3800.md)
 * [커리큘럼 관리](faq/curriculum.md)
 * [과제 관리](faq/undefined-2/README.md)
