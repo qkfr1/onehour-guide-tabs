@@ -2,4 +2,6 @@
 
 ### 영상 보며 따라하기
 
+Gemini 무료 버전을 이용하여 텍스트 추출 후 이용하실 수 있습니다.&#x20;
+
 {% embed url="https://youtu.be/OlKfaNYElZ4" %}
