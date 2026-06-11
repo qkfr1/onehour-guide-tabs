@@ -47,7 +47,7 @@
     * [본문교재 수업생성](teacher/lesson-management/create/with-textbook.md)
     * [작업 상태창](teacher/lesson-management/create/task-queue.md)
     * [문법 문제 생성하기](teacher/lesson-management/create/undefined.md)
-    * [단어장 가이드](teacher/lesson-management/create/undefined-1.md)
+    * [단어장 가이드](teacher/lesson-management/create/voca.md)
   * [수업 수정하기](teacher/lesson-management/edit/README.md)
     * [문장 수정 방법](teacher/lesson-management/edit/sentence.md)
   * [수업 삭제하기](teacher/lesson-management/delete.md)
