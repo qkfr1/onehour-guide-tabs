@@ -1,5 +1,11 @@
-# 더빙 시 워터마크로 우리학원 로고를 넣고 싶어요
+# 같은 클래스 과제를 새로 등록한 학생에게 부여하고 싶어요
 
 ### 영상 보며 따라하기
 
-{% embed url="https://youtu.be/Y6tZJiMTUWI" %}
+#### 1) 전체 클래스에 해당 과제를 부과한 날짜와 다른 날짜에 부과하고 싶으실 때
+
+{% embed url="https://youtu.be/oz3qK2OOs68" %}
+
+#### 2) 전체 클래스에 해당 과제를 부과한 날짜와 같은 날짜에 부과하고 싶으실 때
+
+{% embed url="https://youtu.be/XhkmMqiIvRU" %}
