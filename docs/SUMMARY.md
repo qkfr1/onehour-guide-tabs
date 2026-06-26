@@ -120,7 +120,7 @@
 * [과제 관리](faq/undefined-2/README.md)
   * [아이들이 과제를 어려워해요! 영상을 보면서 과제를 할 수 있나요?](faq/undefined-2/undefined.md)
   * [더빙 시 학습자가 더빙 종료를 누르지 않아도 일정 시간이 지나면 더빙이 종료되나요?](faq/undefined-2/undefined-1.md)
-  * [워크시트는 따로 파일 저장이 안되나요?](faq/undefined-2/undefined-2.md)
+  * [학습지를 따로 파일로 저장하는 것이 가능한가요?](faq/undefined-2/undefined-2.md)
   * [에세이 라이팅 과제를 부여하고, 손글씨를 업로드하여 AI 첨삭을 받는 방법](faq/undefined-2/ai.md)
   * [책 워크시트로 랜덤 시험지 만들기](faq/undefined-2/undefined-3.md)
   * [책과제를 반복으로 내고 싶어요](faq/undefined-2/undefined-4.md)
