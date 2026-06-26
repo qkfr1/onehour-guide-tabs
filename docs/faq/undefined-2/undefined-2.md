@@ -6,5 +6,5 @@
 
 아래 이미지와 같이 \[대상-PDF로 저장] 지정 후 \[저장] 버튼 클릭해 주시면 학습지를 PDF 파일로 저장하는 것이 가능합니다.
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-06-26 오전 11.31.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-26 오전 11.31.16 (1).png" alt=""><figcaption></figcaption></figure>
 
