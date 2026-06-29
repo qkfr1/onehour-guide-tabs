@@ -149,5 +149,3 @@
 ***
 
 * [원아워 워크플로우](undefined.md)
-* [pricing guide](pricing-guide.md)
-* [pricing guide (1)](pricing-guide-1.md)
