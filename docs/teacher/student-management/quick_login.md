@@ -17,7 +17,11 @@
 3. 학생별 현황에서 원하는 학생의 **\[학생으로 접속]** 버튼 클릭
 4. 새 탭에서 해당 학생의 과제 화면이 열립니다
 
-<div><figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.03.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.13.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.21.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.03.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.13.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.21.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +32,11 @@
 3. 원하는 학생의 **\[로그인 아이콘 🔓]** 클릭<br>
 4. 새 탭에서 해당 학생의 화면이 열립니다
 
-<div><figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.36 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.48 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.58.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.36 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.48 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.58.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
