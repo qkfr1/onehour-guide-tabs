@@ -36,7 +36,7 @@
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.48 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.56.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2026-06-30 오후 3.57.21 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
