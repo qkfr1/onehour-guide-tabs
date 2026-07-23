@@ -112,6 +112,7 @@
 * [클래스 관리](faq/undefined.md)
 * [학생 관리](faq/undefined-1.md)
 * [수업 관리](faq/lesson-management/README.md)
+  * [교재가 30페이지가 넘어가요! PDF를 수동으로 잘라야 할까요?](faq/lesson-management/30-pdf.md)
   * [학습지 이미지 한 장으로 외부지문 내신 대비하기](faq/lesson-management/undefined.md)
   * [모의고사 지문이 시험범위인데, 해당 지문으로 동형모고 제작하고 싶어요!](faq/lesson-management/undefined-1.md)
   * [자동 생성된 문제를 재 생성하는 방법](faq/lesson-management/quizregenerate.md)
