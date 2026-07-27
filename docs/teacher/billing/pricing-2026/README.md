@@ -198,7 +198,7 @@ Basic의 모든 기능에 더해, 영작과 해석 학습을 AI로 평가할 수
 
 기본 제공 크레딧으로 수업 생성이 가능하며 그 이상이 필요하실 때만 추가 구매를 진행하시면 됩니다.
 
-수업 생성 AI 크레딧의 [자세한 사용량 안내는 별도 문서를 참고](/broken/pages/29c28d7145fc80da535c695c8155c8d11dfedd56)해 주세요.
+수업 생성 AI 크레딧의 [자세한 사용량 안내는 별도 문서를 참고](https://1hour.gitbook.io/guide/~/revisions/PkIGKqhz7h130p4vdFpa/teacher/billing/pricing-2026/credit)해 주세요.
 
 ***
 
