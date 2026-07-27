@@ -91,7 +91,7 @@
   * [학생별 월간 리포트 확인 및 송부하기](teacher/data-management/report.md)
   * [과제 확인하기](teacher/data-management/assignment.md)
 * [결제 및 구독권 안내](teacher/billing/README.md)
-  * [변경되는 요금제 정책](teacher/billing/pricing-2026/README.md)
+  * [원아워 기본 요금제(금액, 환불 등)](teacher/billing/pricing-2026/README.md)
     * [수업 생성 크레딧(CP)](teacher/billing/pricing-2026/credit.md)
   * [아카데미 플랜](teacher/billing/organization.md)
   * [비즈니스 파트너 플랜](teacher/billing/student.md)
