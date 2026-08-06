@@ -56,7 +56,7 @@
   * [책 관리](teacher/lesson-management/book.md)
   * [책장 관리](teacher/lesson-management/bookshelf.md)
   * [책·책장 공유하기](teacher/lesson-management/undefined-1.md)
-  * [원마켓에서 수업 다운받기](teacher/lesson-management/onemarket/README.md)
+  * [라이브러리에서 수업 다운받기](teacher/lesson-management/onemarket/README.md)
     * [원마켓 컨텐츠 전체보기](teacher/lesson-management/onemarket/content.md)
 * [커리큘럼 관리](teacher/curriculum-management/README.md)
   * [커리큘럼 생성부터 과제내기까지 한번에 따라하기](teacher/curriculum-management/assignment.md)
