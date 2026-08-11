@@ -18,19 +18,19 @@
 
 1. **우상단 "+ 수업 생성" 버튼 클릭 후 "동형모고" 선택해 주세요.**
 
-<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.20.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2. **갖고 계신 PDF 파일(=지난 시험의 기출문제)을 업로드 합니다.**
 
-<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 10.51.28.png" alt=""><figcaption></figcaption></figure>
 
 
 
 3. **지문(=이번 시험에 나올 지문)을 기입해 주세요.**
 
-<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.05.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.05.12.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -39,7 +39,7 @@
 * 중등 문제를 넣으셔도 생성이 가능하기는 해요. 다만, 현재는 고등 위주여서 지문의 난이도가 조금 더 높아진다고 생각해주시면 됩니다.
 * 한 번 만들어서 결과를 보시고 학원에서 사용하실 수 있는 난이도인지 체크해 보시길 추천드려요!
 
-<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.14.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-17 오전 11.14.54.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@
 
 * 굳이 '문제 생성 시간'을 기다리지 않아도 됩니다. 동시에 다른 문제를 바로 생성하실 수 있어요!
 
-<figure><img src="../../../../.gitbook/assets/스크린샷 2026-04-13 오전 7.02.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2026-04-13 오전 7.02.35.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,4 +56,4 @@
      * \[과제 내기] 온라인 학습용, 학생에게 과제 부여 [\*자세한 가이드는 해당 페이지를 확인해 주세요!](https://1hour.gitbook.io/guide/teacher/assignment-management)
      * \[학습지 만들기] 오프라인 수업용, 프린트 학습지를 만드는 용도
 
-<figure><img src="../../../../.gitbook/assets/SE-d95e18f8-13ff-4539-977f-2b3513139bcd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SE-d95e18f8-13ff-4539-977f-2b3513139bcd.png" alt=""><figcaption></figcaption></figure>
