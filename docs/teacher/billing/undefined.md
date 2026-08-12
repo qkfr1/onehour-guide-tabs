@@ -103,7 +103,7 @@
 <table><thead><tr><th width="220">처리</th><th>결과</th></tr></thead><tbody><tr><td>학생만 삭제</td><td>요금 변동 없음. 비어 있는 시트가 남습니다.</td></tr><tr><td>학생 삭제 + <strong>시트 삭제</strong></td><td>줄어든 시트 수만큼 요금이 조정됩니다.</td></tr></tbody></table>
 
 요금을 줄이시려면 관리자 페이지에서 **시트 수를 함께 줄여** 주셔야 합니다.\
-시트를 삭제하는 방법은 [시트 추가 · 삭제](/broken/pages/aaadc173a2ae771157ace3e768c2180d1b77dae7) 문서를 참고해 주세요.
+시트를 삭제하는 방법은 [시트 추가 · 삭제](https://1hour.gitbook.io/guide/~/revisions/H6SuWSC7TrvHNKOtOJdh/teacher/student-management/seats) 문서를 참고해 주세요.
 
 #### 5-2. 시트 삭제 시 환불 기준
 
@@ -124,7 +124,7 @@
 
 <table><thead><tr><th width="180">구분</th><th>처리</th></tr></thead><tbody><tr><td>기본 크레딧</td><td>환불 대상이 아니며, 구독 환불 시 회수됩니다.</td></tr><tr><td>추가 구매 크레딧</td><td>구매일로부터 30일 이내 미사용분에 한해 환불 가능합니다.</td></tr><tr><td>연간 결제 해지</td><td>잔여 기본 크레딧은 소멸되며, 사용분은 환불액에서 차감됩니다.</td></tr></tbody></table>
 
-자세한 내용은 [수업 생성 크레딧(CP)](https://app.gitbook.com/o/b2AHXBUEeSWqtOHfjdhi/s/oiG5NwKFJZtVe6fu0mST/~/edit/~/changes/516/teacher/billing/credit#id-1.-ai) 문서를 참고해 주세요.
+자세한 내용은 [수업 생성 크레딧(CP)](https://1hour.gitbook.io/guide/~/revisions/H6SuWSC7TrvHNKOtOJdh/teacher/billing/credit) 문서를 참고해 주세요.
 
 ### 7. 환불 신청 경로
 

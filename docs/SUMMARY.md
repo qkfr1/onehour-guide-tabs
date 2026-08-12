@@ -17,7 +17,7 @@
   * [클래스 책 관리](teacher/class-management/book.md)
 * [학생 관리](teacher/student-management.md)
   * [학생 계정 바로가기](teacher/student-management/quick_login.md)
-  * [시트추가삭제](teacher/student-management/undefined.md)
+  * [시트추가삭제](teacher/student-management/seats.md)
 * [수업 관리](teacher/lesson-management/README.md)
   * [수업 생성하기](teacher/lesson-management/create/README.md)
     * [동형모고(기출 쌍둥이 변형 문제)](teacher/lesson-management/create/twin-problem.md)
