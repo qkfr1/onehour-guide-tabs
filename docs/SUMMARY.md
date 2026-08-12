@@ -2,15 +2,13 @@
 
 ## 공지사항
 
-* [좌측 사이드바로 메뉴가 이동했어요](README.md)
-
 ## 선생님 가이드 <a href="#teacher" id="teacher"></a>
 
-* [시작하기](<README (1).md>)
+* [시작하기](README.md)
   * [회원가입](teacher/start/sign-up.md)
   * [로그인 및 회원정보 수정](teacher/start/login.md)
+  * [메인메뉴 소개](teacher/start/lnb.md)
   * [회원 탈퇴](teacher/start/undefined.md)
-  * [공지사항](teacher/start/undefined-1.md)
   * [원아워 바로가기 만들기 (Safari)](teacher/start/safari.md)
 * [클래스 관리](teacher/class-management/README.md)
   * [클래스 책장 관리](teacher/class-management/bookshelf.md)
@@ -76,6 +74,7 @@
   * [결제 수단(카드) 관리](teacher/billing/undefined.md)
   * [결제 FAQ](teacher/billing/faq.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
+* [공지사항](teacher/undefined.md)
 
 ## FAQ
 
