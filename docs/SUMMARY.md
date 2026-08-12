@@ -72,8 +72,8 @@
   * [원아워 기본 요금제](teacher/billing/pricing-2026.md)
   * [비즈니스 파트너 플랜](teacher/billing/student.md)
   * [수업 생성 크레딧(CP)](teacher/billing/credit.md)
-  * [해지 및 환불](teacher/billing/undefined.md)
-  * [결제 수단(카드) 관리](teacher/billing/undefined-1.md)
+  * [해지 및 환불](teacher/billing/cancel.md)
+  * [결제 수단(카드) 관리](teacher/billing/undefined.md)
   * [결제 FAQ](teacher/billing/faq.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
 
