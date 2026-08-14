@@ -1,13 +1,30 @@
-# 비즈니스 파트너 플랜 도입 관련 자료 총정리
+# 비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요
 
-### 비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요
+{% stepper %}
+{% step %}
+### 상단 \[클래스] 탭을 클릭해 주세요
 
-* 아래 가이드에서 공문 확인 가능하십니다
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-02 오후 1.00.46.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://1hour.gitbook.io/guide/~/revisions/s0xqpB7c2qPDV2GaChnH/faq/undefined-6/undefined-1" %}
 
-### 비즈니스 파트너 플랜 결제 방법에 대한 상세한 가이드가 필요해요
+{% endstep %}
 
-{% embed url="https://1hour.gitbook.io/studentguide/billing/pc" %}
+{% step %}
+### \[구독상태 보기] 버튼을 클릭해 주세요
 
-{% embed url="https://1hour.gitbook.io/studentguide/billing/mobile" %}
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-02 오후 1.01.35.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+
+{% step %}
+### 학생의  구독 상태를 확인할 수 있어요
+
+* 구독중 -> 정상적으로 구독중인 상태로, 매달 1일 자동결제가 이루어지도록 설정되어 있어요
+* 구독해지 -> 구독하지 않고 있는 상태로, 카드 등록 및 구독권 구매를 진행하도록 안내해 주시면 됩니다
+
+<figure><img src="../../.gitbook/assets/스크린샷 2026-04-02 오후 1.02.09.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endstep %}
+{% endstepper %}
