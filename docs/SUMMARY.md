@@ -120,12 +120,12 @@
 * [결제 및 구독권 안내](faq/payment/README.md)
   * [비즈니스 파트너 플랜 도입 관련 자료 총정리](faq/payment/q01.md)
   * [비즈니스 파트너 플랜을 학부모님께 안내드릴 때 이용할 공문이 필요해요](faq/payment/q02.md)
-  * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/undefined.md)
-  * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/coupon.md)
-  * [원아워 구독권 구매하는 방법](faq/payment/guide.md)
+  * [비즈니스 파트너 플랜 학생 구독 상태를 확인하고 싶어요](faq/payment/q03.md)
+  * [쿠폰 등록 후 구독권 구매하는 방법](faq/payment/q04.md)
+  * [원아워 구독권 구매하는 방법](faq/payment/q05.md)
 * [기타사항](faq/etc/README.md)
-  * [사진 촬영 → 텍스트 복사 (문제 생성 X)](faq/etc/x.md)
-  * [캐시 삭제하기](faq/etc/clear-cache.md)
+  * [사진 촬영 → 텍스트 복사 (문제 생성 X)](faq/etc/q01.md)
+  * [캐시 삭제하기](faq/etc/q02.md)
 
 ***
 
