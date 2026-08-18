@@ -8,7 +8,7 @@
   * [회원가입](teacher/start/sign-up.md)
   * [로그인 및 회원정보 수정](teacher/start/login.md)
   * [메인메뉴 소개](teacher/start/lnb.md)
-  * [회원 탈퇴](teacher/start/undefined.md)
+  * [회원 탈퇴](teacher/start/withdrawal.md)
   * [원아워 바로가기 만들기 (Safari)](teacher/start/safari.md)
 * [클래스 관리](teacher/class-management/README.md)
   * [클래스 책장 관리](teacher/class-management/bookshelf.md)
@@ -54,9 +54,9 @@
   * [과제 수정하기](teacher/assignment-management/edit.md)
   * [과제 삭제하기](teacher/assignment-management/delete.md)
   * [과제 복사하기/ 템플릿](teacher/assignment-management/template.md)
-  * [워크시트 만들기](teacher/assignment-management/worksheet/README.md)
+  * [학습지 만들기](teacher/assignment-management/worksheet/README.md)
     * [빈칸 본문 암기 학습지 만들기](teacher/assignment-management/worksheet/undefined.md)
-  * [영작과제 생성](teacher/assignment-management/undefined.md)
+  * [영작과제 생성](teacher/assignment-management/writing.md)
 * [데이터 관리](teacher/data-management/README.md)
   * [클래스에서 과제 관리하기](teacher/data-management/class/README.md)
     * [백점처리하기](teacher/data-management/class/undefined.md)
@@ -69,10 +69,10 @@
   * [비즈니스 파트너 플랜](teacher/billing/student.md)
   * [수업 생성 크레딧(CP)](teacher/billing/credit.md)
   * [해지 및 환불](teacher/billing/cancel.md)
-  * [결제 수단(카드) 관리](teacher/billing/undefined.md)
+  * [결제 수단(카드) 관리](teacher/billing/payment-method.md)
   * [결제 FAQ](teacher/billing/faq.md)
 * [웹 전용 기능 안내](teacher/web-features.md)
-* [공지사항](teacher/undefined.md)
+* [공지사항](teacher/notice.md)
 
 ## FAQ
 
