@@ -24,13 +24,11 @@
 
 화면 상단에 있던 메뉴가 좌측 사이드바로 옮겨졌습니다. 메뉴 이름과 기능은 동일합니다.
 
-* **커리큘럼 / 수업관리 / 과제관리 / 클래스 / 랭킹 / 원마켓** 메뉴를 좌측에서 그대로 이용하실 수 있습니다.
+* **커리큘럼 / 수업관리 / 과제관리 / 클래스 / 랭킹 / 라이브러리** 메뉴를 좌측에서 그대로 이용하실 수 있습니다.
 * **알림톡** 메뉴가 사이드바에 추가되었습니다. 자세한 사용법은 👉 [알림톡 가이드](https://1hour.gitbook.io/guide/teacher/undefined-5/kakaonoti)를 참고해 주세요.
 * **업그레이드(요금제 안내)** 와 **마이페이지(이름·기관명) 버튼**도 좌측 사이드바 하단에서 이용하실 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/composite-landscape-1778200688080-edited.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
@@ -43,21 +41,17 @@
 * 접힘 상태는 자동으로 저장됩니다. 페이지를 이동하거나 새로고침해도 마지막 상태가 그대로 유지됩니다.
 
 <figure><img src="../../.gitbook/assets/composite-landscape-1778201173739-edited.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 
 {% step %}
 ### 과제, 더 빠르게 부여하기
 
-사이드바에 **"과제 부여"** 버튼이 상시 노출됩니다.&#x20;
+사이드바에 **"과제 부여"** 버튼이 상시 노출됩니다.
 
-어떤 페이지에서든 버튼 클릭 한 번으로 과제 부여 화면이 열려, \
+어떤 페이지에서든 버튼 클릭 한 번으로 과제 부여 화면이 열려,\
 작업 중이던 페이지를 떠나지 않고 바로 과제를 부여하실 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/스크린샷 2026-05-08 오전 9.49.07-edited.png" alt=""><figcaption></figcaption></figure>
-
-
 {% endstep %}
 {% endstepper %}
 
