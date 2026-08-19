@@ -23,6 +23,8 @@
     * [문법 문제 생성하기](teacher/lesson-management/create/grammar-quiz.md)
     * [시험지 가져오기](teacher/lesson-management/create/import-exam.md)
     * [단어장](teacher/lesson-management/create/voca.md)
+    * [커스텀 수업 생성](teacher/lesson-management/create/custom.md)
+    * [문제 직접 생성](teacher/lesson-management/create/custom-quiz.md)
   * [수업 수정하기](teacher/lesson-management/edit/README.md)
     * [문장 수정 방법](teacher/lesson-management/edit/sentence.md)
   * [수업 삭제하기](teacher/lesson-management/delete.md)
@@ -129,5 +131,3 @@
 
 * [📍 세미나 따라잡기](seminar/README.md)
   * [원아워로 중고등 내신대비 200% 활용하기 / 오만한 영어 이태연 원장 (26.04.17)](seminar/260417.md)
-* [커스텀\_수업\_생성](_-_.md)
-* [문제\_세트\_만들기](_-_-1.md)
