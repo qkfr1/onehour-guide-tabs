@@ -13,12 +13,16 @@
 {% stepper %}
 {% step %}
 수업 상세 화면에서 **수정하기**를 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_01.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **문제 수정**을 클릭합니다.
 
-「전용 화면에서 문제 세트 편집」 항목입니다. 문장·단어를 고치려면 위쪽 **수업 수정**을 클릭합니다.
+<figure><img src="../../../.gitbook/assets/quiz_02.png" alt=""><figcaption></figcaption></figure>
+
+
 {% endstep %}
 {% endstepper %}
 
@@ -27,16 +31,22 @@
 {% stepper %}
 {% step %}
 좌측 사이드바에서 **+ 수업 생성** 버튼을 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_03.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **영역별 수업**의 **커스텀**을 클릭해 새 수업을 만듭니다.
 
-수업을 만드는 자세한 방법은 [커스텀 수업 생성](/broken/pages/b08e32d0478c4cac3c98f83bcde32b6c6553f8b8)을 참고해 주세요.
+수업을 만드는 자세한 방법은 [커스텀 수업 생성](custom.md)을 참고해 주세요.
+
+<figure><img src="../../../.gitbook/assets/quiz_04.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 수업 수정 화면에서 **문제 세트 편집**을 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_05.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -47,16 +57,22 @@
 {% stepper %}
 {% step %}
 **+ 세트 추가**를 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_06.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **빈 세트 추가**를 클릭합니다.
 
 **AI로 문제 세트 생성**을 선택하면 크레딧이 차감됩니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_07.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Untitled**을 클릭해 세트 이름을 수정합니다.
+**Untitled(제목)**&#xC744; 클릭해 세트 이름을 수정하고 엔터를 눌러 저장합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_08.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -65,12 +81,16 @@
 {% stepper %}
 {% step %}
 세트를 더 만들려면 **+ 세트 추가** > **빈 세트 추가**를 다시 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_09.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 세트를 지우려면 세트 오른쪽 **×** 를 누르고 **삭제**를 클릭합니다.
 
 삭제한 문제 세트는 복구할 수 없습니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_10.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -79,6 +99,8 @@
 {% stepper %}
 {% step %}
 **+ 문제 추가하기**를 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_11.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -91,28 +113,36 @@
 **파일 첨부 1**을 클릭해 음원이나 이미지 파일을 첨부합니다.
 
 본문에는 **파일 첨부 1**, **파일 첨부 2** 두 개까지, 해설에는 **파일 첨부** 한 개를 붙일 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_13.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 오른쪽 **선택지** 영역에 보기를 입력합니다.
 
 선택지를 더 만들려면 **+ 선택지 추가**를 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_14.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 선택지 왼쪽 체크박스를 클릭해 정답을 설정합니다.
 
 정답인 선택지를 모두 체크하면 복수 정답으로 설정됩니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_15.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 주관식으로 낼 문제는 **주관식**을 클릭해 유형을 바꿉니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_16.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**저장**을 클릭해 문제 내용을 저장합니다.
+**저장**을 클릭해 문제 내용을 저장합니다. 저장하기 전에는 상단에 「저장 안 됨」이 표시됩니다.
 
-저장하기 전에는 상단에 「저장 안 됨」이 표시됩니다.
+<figure><img src="../../../.gitbook/assets/quiz_17.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -123,6 +153,8 @@
 **+ 문제 추가**를 클릭해 같은 세트에 문제를 추가합니다.
 
 문제 번호 옆 **<** **>** 로 문제 사이를 이동할 수 있습니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_18.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -131,10 +163,14 @@
 {% stepper %}
 {% step %}
 학습 기능에서 만든 문제 세트 이름을 클릭합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_19.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 입력한 문제와 선택지가 나오고, 첨부한 음원이 재생되는지 확인합니다.
+
+<figure><img src="../../../.gitbook/assets/quiz_20.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
