@@ -18,8 +18,6 @@
 
 
 
-### 설정 알아보기
-
 {% embed url="https://app.storylane.io/share/vmz297t2tfg1" %}
 
 {% stepper %}
