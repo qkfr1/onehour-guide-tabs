@@ -8,6 +8,10 @@
 
 단어와 문장은 이 문서에서, 문제는 [문제 세트 만들기](custom-quiz.md)에서 안내합니다.
 
+## 영상보며 따라하기
+
+{% embed url="https://youtu.be/J_vX9Hs2rsI" %}
+
 ## 1. 커스텀 수업 만들기
 
 {% stepper %}
