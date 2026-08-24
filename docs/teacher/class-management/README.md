@@ -31,9 +31,7 @@
 
 {% stepper %}
 {% step %}
-좌측 사이드바에서 **\[클래스]** 를 클릭합니다.
-
-<figure><img src="../../.gitbook/assets/class_01.png" alt=""><figcaption></figcaption></figure>
+{% include "../../.gitbook/includes/undefined (7).md" %}
 {% endstep %}
 
 {% step %}
