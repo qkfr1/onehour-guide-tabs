@@ -2,7 +2,17 @@
 
 ### 생성 방법
 
-{% include "../../.gitbook/includes/undefined (4).md" %}
+{% stepper %}
+{% step %}
+{% include "../../.gitbook/includes/undefined (8).md" %}
+{% endstep %}
+
+{% step %}
+원하는 수업을 찾아 **과제 내기** 버튼을 클릭합니다.
+
+
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -129,3 +139,4 @@
 {% endtabs %}
 {% endstep %}
 {% endstepper %}
+

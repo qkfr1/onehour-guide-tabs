@@ -50,8 +50,6 @@ AI 기반의 자동 수업 생성, 학습 리포트, 학습지 출력 등 다양
 {% step %}
 ### **과제 부여하기**
 
-{% include ".gitbook/includes/undefined (4).md" %}
-
 {% embed url="https://youtu.be/enzG1_GCXXA" %}
 
 _"시험모드?"_ 과제 옵션 설정이 궁금하다면? [바로가](teacher/assignment-management/create.md)기
