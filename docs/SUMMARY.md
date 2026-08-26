@@ -11,7 +11,7 @@
 * [클래스 관리](teacher/class-management/README.md)
   * [클래스 책장 관리](teacher/class-management/bookshelf.md)
   * [클래스 책 관리](teacher/class-management/book.md)
-* [학생/학부모 관리](teacher/student-management/README.md)
+* [학생/학부모 관리](teacher/student-management.md)
   * [학생 계정 바로가기](teacher/student-management/quick_login.md)
   * [시트추가삭제](teacher/student-management/seats.md)
   * [학생 리포트 카카오 알림톡](teacher/student-management/kakaonoti.md)

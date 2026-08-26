@@ -103,7 +103,7 @@
 <table><thead><tr><th width="220">처리</th><th>결과</th></tr></thead><tbody><tr><td>학생만 삭제</td><td>요금 변동 없음. 비어 있는 시트가 남습니다.</td></tr><tr><td>학생 삭제 + <strong>시트 삭제</strong></td><td>줄어든 시트 수만큼 요금이 조정됩니다.</td></tr></tbody></table>
 
 요금을 줄이시려면 관리자 페이지에서 **시트 수를 함께 줄여** 주셔야 합니다.\
-시트를 삭제하는 방법은 [시트 추가 · 삭제](https://1hour.gitbook.io/guide/~/revisions/H6SuWSC7TrvHNKOtOJdh/teacher/student-management/seats) 문서를 참고해 주세요.
+시트를 삭제하는 방법은 [시트 추가 · 삭제](../student-management/seats.md) 문서를 참고해 주세요.
 
 #### 5-2. 시트 삭제 시 환불 기준
 
