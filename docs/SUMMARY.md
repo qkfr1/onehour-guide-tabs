@@ -15,6 +15,7 @@
   * [학생 계정 바로가기](teacher/student-management/quick_login.md)
   * [시트추가삭제](teacher/student-management/seats.md)
   * [학생 리포트 카카오 알림톡](teacher/student-management/kakaonoti.md)
+  * [학생 마이페이지](teacher/student-management/mypage.md)
 * [수업 관리](teacher/lesson-management/README.md)
   * [수업 생성하기](teacher/lesson-management/create/README.md)
     * [동형모고(기출 쌍둥이 변형 문제)](teacher/lesson-management/create/twin-problem.md)
