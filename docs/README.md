@@ -16,7 +16,7 @@ AI 기반의 자동 수업 생성, 학습 리포트, 학습지 출력 등 다양
 {% step %}
 ### **클래스 생성하기**
 
-{% embed url="https://app.storylane.io/share/srgadrfcxdit" %}
+{% @storylane/embed subdomain="app" linkValue="srgadrfcxdit" url="https://app.storylane.io/share/srgadrfcxdit" %}
 
 {% include ".gitbook/includes/undefined.md" %}
 {% endstep %}
@@ -24,13 +24,13 @@ AI 기반의 자동 수업 생성, 학습 리포트, 학습지 출력 등 다양
 {% step %}
 ### **학생 추가하기**
 
-{% embed url="https://app.storylane.io/share/0f0utazhb6kv" %}
+{% @storylane/embed subdomain="app" linkValue="0f0utazhb6kv" url="https://app.storylane.io/share/0f0utazhb6kv" %}
 
 * 학생 한 번에 추가하기 (엑셀 업로드 방식)
 
 {% include ".gitbook/includes/undefined (2).md" %}
 
-{% embed url="https://app.storylane.io/share/m1mwhkrwhccp" %}
+{% @storylane/embed subdomain="app" linkValue="m1mwhkrwhccp" url="https://app.storylane.io/share/m1mwhkrwhccp" %}
 
 * 학생 한 명씩 추가하기
 
